@@ -1,5 +1,6 @@
 import { Instance } from "../../../../connection/conn";
 import validate from "../../../../utils/validator";
+import fetchName from "../../../../utils/getName";
 
 export default async function queryHandler(req, res) {
     const { puuid, actions:actions } = req.query;
@@ -31,10 +32,16 @@ export default async function queryHandler(req, res) {
                 return res.status(validation[0]).json(validation[1]);
             }
             // Body Validation block end
-            let resp = await objInit.documentFromSharecode(shareCode);
-            if (resp != undefined) {
+            let resp = await objInit.documentFromSharecode(body.sharecode);
+            if (resp.keys() > 0) {
                 return res.status(409).json({ error: "Conflict", message: "Sharecode already exists" });
             }
+            // Name fetching block start
+            const fromNameService = await fetchName(puuid).then(name => {return name[0]} );
+            body.displayName = fromNameService.GameName;
+            body.gameTag = fromNameService.TagLine;
+            // Name fetching block end
+
             await objInit.addDocument(puuid, body);
             return res.status(200).json({ status: "OK", message: "Success" });
         default:
