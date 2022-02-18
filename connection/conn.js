@@ -1,5 +1,5 @@
 import { initializeApp } from "firebase/app";
-import { getFirestore, setDoc, doc, Firestore, getDoc, getDocsFromServer, collection, query, where, getDocFromServer } from 'firebase/firestore';
+import { getFirestore, setDoc, doc, Firestore, getDoc, getDocsFromServer, collection, query as findFrom, where, getDocFromServer } from 'firebase/firestore';
 
 const firebaseConfig = JSON.parse(process.env.FIREBASE_CONFIG);
 
@@ -14,7 +14,7 @@ export class Instance
 
     async documentFromSharecode (shareCode)
     {
-        const query = query(this.collection, where("shareCode", "==", shareCode));
+        const query = findFrom(this.collection, where("shareCode", "==", shareCode));
         return JSON.stringify((await getDocsFromServer(query)).docs.map(doc => doc.data()), null, 4);
     }
 
@@ -31,6 +31,7 @@ export class Instance
 
     async documents()
     {
-        return JSON.stringify((await getDocsFromServer(this.collection)).docs.map(doc => doc.data()), null, 4);
+        const query = findFrom(this.collection, where("shareable", "==", true));
+        return JSON.stringify((await getDocsFromServer(query)).docs.map(doc => doc.data()), null, 4);
     }
 }
