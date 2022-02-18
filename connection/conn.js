@@ -15,15 +15,15 @@ export class Instance
     async documentFromSharecode (shareCode)
     {
         const query = findFrom(this.collection, where("shareCode", "==", shareCode));
-        return JSON.stringify((await getDocsFromServer(query)).docs.map(doc => doc.data()), null, 4);
+        return (await getDocsFromServer(query)).docs.map(doc => doc.data());
     }
 
     async documentFromSubject (subject)
     {
-        return JSON.stringify((await getDocFromServer(doc(this.instance, "users-settings", subject))).data(), null, 4);
+        return (await getDocFromServer(doc(this.instance, "users-settings", subject))).data();
     }
 
-    addDocu (docuName, data)
+    addDocument (docuName, data)
     {
         setDoc(doc(this.instance, "users-settings", docuName), data);
         return data;
@@ -32,6 +32,6 @@ export class Instance
     async documents()
     {
         const query = findFrom(this.collection, where("shareable", "==", true));
-        return JSON.stringify((await getDocsFromServer(query)).docs.map(doc => doc.data()), null, 4);
+        return (await getDocsFromServer(query)).docs.map(doc => doc.data());
     }
 }

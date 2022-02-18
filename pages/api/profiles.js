@@ -7,8 +7,8 @@ export default async function handler(req, res) {
 
     const objInit = new Instance();
     const resp = await objInit.documents();
-    if (resp === undefined) {
+    if (resp === undefined || resp.length < 1) {
         return res.status(204).end();
     }
-    res.status(200).json(resp);
+    res.status(200).json(JSON.stringify(resp, null, 4));
 }

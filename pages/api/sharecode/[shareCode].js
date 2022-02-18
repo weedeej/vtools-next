@@ -12,8 +12,8 @@ export default async function sharecodeHandler(req, res) {
     const objInit = new Instance();
     
     let resp = await objInit.documentFromSharecode(shareCode);
-    if (resp === undefined) {
+    if (resp === undefined || resp.length < 1) {
         return res.status(404).json({ error: "Not Found", input: shareCode });
     }
-    res.status(200).json(resp);
+    res.status(200).json(JSON.stringify(resp, null, 4));
   }
