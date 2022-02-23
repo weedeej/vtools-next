@@ -14,7 +14,7 @@ export class Instance
 
     async documentFromSharecode (shareCode)
     {
-        const query = findFrom(this.collection, where("shareCode", "==", shareCode));
+        const query = findFrom(this.collection, where("sharecode", "==", shareCode));
         return (await getDocsFromServer(query)).docs.map(doc => doc.data());
     }
 

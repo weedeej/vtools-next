@@ -1,4 +1,4 @@
-import { Instance } from "../../../../connection/conn";
+import { Instance } from "../../../../connection/conn_valcc";
 import validate from "../../../../utils/validator";
 import fetchName from "../../../../utils/getName";
 

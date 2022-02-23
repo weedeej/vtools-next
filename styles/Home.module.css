@@ -15,7 +15,7 @@
 .footer {
   display: flex;
   flex: 1;
-  padding: 2rem 0;
+  padding: 0.5rem 0;
   border-top: 1px solid #eaeaea;
   justify-content: center;
   align-items: center;
@@ -25,11 +25,12 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  flex-grow: 1;
+  margin-right: 1rem;
+  flex-grow: 0;
 }
 
 .title a {
-  color: #0070f3;
+  color: #ff5252;
   text-decoration: none;
 }
 
@@ -44,8 +45,26 @@
   line-height: 1.15;
   font-size: 4rem;
 }
+/******/
+.subtitle a {
+  color: #ff5252;
+  text-decoration: none;
+}
 
+.subtitle a:hover,
+.subtitle a:focus,
+.subtitle a:active {
+  text-decoration: underline;
+}
+
+.subtitle {
+  margin: 0;
+  line-height: 1.15;
+  font-size: 2rem;
+}
+/******/
 .title,
+.subtitle,
 .description {
   text-align: center;
 }
@@ -82,14 +101,21 @@
   border: 1px solid #eaeaea;
   border-radius: 10px;
   transition: color 0.15s ease, border-color 0.15s ease;
-  max-width: 300px;
+  width: 300px;
+  height: 222px;
 }
 
 .card:hover,
 .card:focus,
 .card:active {
-  color: #0070f3;
-  border-color: #0070f3;
+  border-color: #ff5252;
+}
+
+.card:hover h2,
+.card:focus h2,
+.card:active h2 {
+  color: #ff5252;
+  font-size: 1.6rem;
 }
 
 .card h2 {

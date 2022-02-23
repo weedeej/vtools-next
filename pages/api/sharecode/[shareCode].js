@@ -1,4 +1,4 @@
-import { Instance } from "../../../connection/conn";
+import { Instance } from "../../../connection/conn_valcc";
 export default async function sharecodeHandler(req, res) {
     const {
       query: { shareCode },
