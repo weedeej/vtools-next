@@ -75,7 +75,6 @@ export default async function obtainSession(username = null, password = null, co
             response: ""
         }
     }
-    console.log(authResponse)
     const responseHeaders = authResponse.headers
     const cookiesRaw = responseHeaders['set-cookie']
     let cooked = {};

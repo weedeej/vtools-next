@@ -52,6 +52,12 @@ async function daily(id, req, res)
     const balances = walletResp.data.Balances;
     const valorantPoints = balances["85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741"]
     const radianitePoints = balances["e59aa87c-4cbf-517a-5983-6e81511be9b7"]
+    const skinsListResp = await fetch("https://vtools-next.vercel.app/api/skinslist");
+    let skinsList = await skinsListResp.json().data;
+    let offersData = [];
+    offers.map(key => {
+        offersData.push(skinsList[key])
+    })
     // Wallet end
     res.status(200).json({ waitList, offers, available, wallet: {valorantPoints, radianitePoints} });
 }
@@ -66,11 +72,10 @@ export default async function store(req, res) {
     switch (action[0])
     {
         case 'nightmarket':
-            res.end();
-            break;
+            return res.status(404).json({ error: "Not Found", input: action[0] });
         case 'check':
             return daily(id, req, res);
         default:
-            return res.status(404).json({ error: "Not Found", input: action });
+            return res.status(404).json({ error: "Not Found", input: action[0]});
     }
 }
