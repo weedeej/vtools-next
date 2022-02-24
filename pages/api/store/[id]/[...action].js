@@ -112,11 +112,6 @@ async function remove (id, req, res, skinId)
 }
 
 export default async function store(req, res) {
-    if (req.method != 'GET') {
-        res.setHeader('Allow', ['GET']);
-        return res.status(405).json({ error: `Method ${req.method} Not Allowed` });   
-    }
-
     const { id, action, key, updater_id } = req.query;
     if (key == undefined || updater_id == undefined || key != process.env.UPDATER_KEY || !process.env.AUTHORIZED_UPDATER.split("|").includes(updater_id)) {
         return res.status(401).json({ error: "Unauthorized" });
@@ -127,11 +122,23 @@ export default async function store(req, res) {
         case 'nightmarket':
             return res.status(404).json({ error: "Not Found", input: action[0] });
         case 'check':
+            if (req.method != 'GET') {
+                res.setHeader('Allow', ['GET']);
+                return res.status(405).json({ error: `Method ${req.method} Not Allowed` });   
+            }
             return daily(id, req, res);
         case 'add':
+            if (req.method != 'PUT') {
+                res.setHeader('Allow', ['PUT']);
+                return res.status(405).json({ error: `Method ${req.method} Not Allowed` });   
+            }
             if (action[1] == undefined) return res .status(400).json({ error: "Bad Request", message: "No skin ID provided" });
             return add(id, req, res, action[1]);
         case 'remove':
+            if (req.method != 'DELETE') {
+                res.setHeader('Allow', ['DELETE']);
+                return res.status(405).json({ error: `Method ${req.method} Not Allowed` });   
+            }
             if (action[1] == undefined) return res .status(400).json({ error: "Bad Request", message: "No skin ID provided" });
             return remove(id, req, res, action[1]);
         default:
