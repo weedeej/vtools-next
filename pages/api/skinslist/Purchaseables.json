@@ -1,0 +1,2061 @@
+{
+    "riotClientVersion": "release-04.03-shipping-6-671292",
+    "data": {
+        "549b06bb-4704-25ce-19d5-c9b70b10de19": {
+            "displayName": "Glitchpop Odin",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/549b06bb-4704-25ce-19d5-c9b70b10de19/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/72c8af91-f9f9-4044-801c-3e73ee2f2aa1.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/HMG/Cyberpunk/HeavyMachineGun_Cyberpunk_Lv1_PrimaryAsset",
+            "cost": 2175
+        },
+        "ef564ec3-497c-3038-543e-eb94bbe46437": {
+            "displayName": "Prime//2.0 Odin",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/ef564ec3-497c-3038-543e-eb94bbe46437/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/07c47f26-4dd6-fe8f-bcdc-18b9c1425667.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/HMG/HypeBeast2/Levels/HeavyMachineGun_HypeBeast2_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "c59442a5-4b74-792c-d996-71a5fb340625": {
+            "displayName": "Smite Odin",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/c59442a5-4b74-792c-d996-71a5fb340625/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/HMG/Lightning/Levels/HMG_Lightning_Lv1_PrimaryAsset",
+            "cost": 875
+        },
+        "1bfea917-4262-37ba-3a76-04b937f2d0be": {
+            "displayName": "Sensation Odin",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/1bfea917-4262-37ba-3a76-04b937f2d0be/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/HMG/Rainbow/Levels/HMG_Rainbow_Lv1_PrimaryAsset",
+            "cost": 875
+        },
+        "5123ed96-48de-aeab-eaea-2b8ea689f5a2": {
+            "displayName": "BlastX Odin",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/5123ed96-48de-aeab-eaea-2b8ea689f5a2/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/943c425e-4b3d-0d29-15d7-8d88d95b886e.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/HMG/URF/Levels/HeavyMachineGun_URF_Lv1_PrimaryAsset",
+            "cost": 2175
+        },
+        "1203a0b8-4044-a7de-1751-87b30b9574e8": {
+            "displayName": "VALORANT GO! Vol. 2 Ares",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/1203a0b8-4044-a7de-1751-87b30b9574e8/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/LMG/Anime2/Levels/LMG_Anime2_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "a2045403-40f7-2926-f955-028b6867c79a": {
+            "displayName": "Aristocrat Ares",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/a2045403-40f7-2926-f955-028b6867c79a/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/LMG/ArtDeco/Levels/LightMachineGun_ArtDeco_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "7d3c0ac4-42ce-7111-2c86-43be3d2e86a7": {
+            "displayName": "Nebula Ares",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/7d3c0ac4-42ce-7111-2c86-43be3d2e86a7/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/LMG/Cosmos/Levels/LMG_Cosmos_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "642ee168-4f9e-1f5f-be72-01b3a41ac086": {
+            "displayName": "Singularity Ares",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/642ee168-4f9e-1f5f-be72-01b3a41ac086/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/31277939-4cc5-0346-a8f3-8396a4428a71.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/LMG/Edge/Levels/LightMachineGun_Edge_Lv1_PrimaryAsset",
+            "cost": 2175
+        },
+        "bad7ae62-4f6a-8974-ab73-7ba6405ca898": {
+            "displayName": "Rush Ares",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/bad7ae62-4f6a-8974-ab73-7ba6405ca898/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/LMG/Electroflux/Levels/LightMachineGun_Electroflux_Lv1_PrimaryAsset",
+            "cost": 875
+        },
+        "6df8b470-4248-e29d-2879-bd840ed224c1": {
+            "displayName": "Infantry Ares",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/6df8b470-4248-e29d-2879-bd840ed224c1/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/LMG/Historical/Levels/LMG_Historical_Lv1_PrimaryAsset",
+            "cost": 875
+        },
+        "29be6d9e-48b2-1229-4f7d-4da1c20deda9": {
+            "displayName": "Prism Ares",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/29be6d9e-48b2-1229-4f7d-4da1c20deda9/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/LMG/Iridescence/Levels/LightMachineGun_IridescenceLv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "0dc1eefc-4b8f-e4c5-0c71-d680abcf73e7": {
+            "displayName": "Nunca Olvidados Ares",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/0dc1eefc-4b8f-e4c5-0c71-d680abcf73e7/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/16db0918-4eac-5377-fddc-ac83ef5916d7.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/LMG/LosMuertos/Levels/LMG_LosMuertos_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "46048768-4499-72f7-820b-7cbe1d4ad844": {
+            "displayName": "Celestial Ares",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/46048768-4499-72f7-820b-7cbe1d4ad844/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/LMG/Lunar/Levels/LMG_Lunar_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "857ad950-486a-d199-7bf2-7092aaf88ae2": {
+            "displayName": "Magepunk Ares",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/857ad950-486a-d199-7bf2-7092aaf88ae2/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/d827980e-4bf2-b29f-aed4-ccadfd64d25d.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/LMG/Magepunk2/Levels/LMG_Magepunk2_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "792656ff-445c-fa7f-301a-8490f638b168": {
+            "displayName": "Minima Ares",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/792656ff-445c-fa7f-301a-8490f638b168/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/LMG/Minima/Levels/LMG_Minima_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "9fbe39c6-42d7-b1db-9048-f0951ce2ff94": {
+            "displayName": "Sakura Ares",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/9fbe39c6-42d7-b1db-9048-f0951ce2ff94/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/LMG/Sakura/Levels/LightMachineGun_Sakura_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "f8295d0b-4378-f4ff-342d-178f6d86ac88": {
+            "displayName": "Snowfall Ares",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/f8295d0b-4378-f4ff-342d-178f6d86ac88/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/LMG/Snowglobe/Levels/LMG_Snowglobe_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "0ddbdf8c-43b0-e2f1-94f8-d6be9d2a2110": {
+            "displayName": "Sentinels of Light Ares",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/0ddbdf8c-43b0-e2f1-94f8-d6be9d2a2110/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/8f8dc86f-4e93-8499-addf-75867750e397.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/LMG/SOL/Levels/LMG_SOL_Lv1_PrimaryAsset",
+            "cost": 2175
+        },
+        "4e435234-49a2-1444-4640-908692c855b8": {
+            "displayName": "RGX 11z Pro Vandal",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/4e435234-49a2-1444-4640-908692c855b8/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/197511ac-4d5a-97fc-78f8-feb5d090dd20.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/Afterglow/Levels/AK_Afterglow_Lv1_PrimaryAsset",
+            "cost": 2175
+        },
+        "23de6607-4647-bccd-8863-3da2720e4152": {
+            "displayName": "VALORANT GO! Vol. 2 Vandal",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/23de6607-4647-bccd-8863-3da2720e4152/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/Anime2/Levels/AK_Anime2_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "9ff1a0e6-4f74-0e6d-9117-de8683db4eb5": {
+            "displayName": "Aristocrat Vandal",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/9ff1a0e6-4f74-0e6d-9117-de8683db4eb5/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/ArtDeco/Levels/AK_ArtDeco_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "1969e379-40ae-b28a-6fb3-819873a24fb9": {
+            "displayName": "Origin Vandal",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/1969e379-40ae-b28a-6fb3-819873a24fb9/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/11e35445-4975-1581-bfc4-bb801829f5ef.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/Circle/Levels/AK_Circle_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "7e44fc1b-44fa-cdda-8491-f8a5bca1cfa3": {
+            "displayName": "Glitchpop Vandal",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/7e44fc1b-44fa-cdda-8491-f8a5bca1cfa3/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/dfd6f8c8-43b5-2f8b-410e-278a1491c768.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/Cyberpunk2/Levels/AK_Cyberpunk2_Lv1_PrimaryAsset",
+            "cost": 2175
+        },
+        "b3d3ff38-4202-20d8-2f41-c783477e5636": {
+            "displayName": "Elderflame Vandal",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/b3d3ff38-4202-20d8-2f41-c783477e5636/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/7cf0f6c2-af1e-47db-9d85-f1a130267cc7.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/Dragon/AK_Dragon_Lv1_PrimaryAsset",
+            "cost": 2475
+        },
+        "851b390a-4852-66bd-8b72-4f96f0919710": {
+            "displayName": "Forsaken Vandal",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/851b390a-4852-66bd-8b72-4f96f0919710/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/b785acbe-4c0b-a603-788f-6bac0184de67.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/Fallen/Levels/AK_FallenLv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "26eee656-4f8d-bdd3-e4fe-ae9e808a3408": {
+            "displayName": "Horizon Vandal",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/26eee656-4f8d-bdd3-e4fe-ae9e808a3408/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/Horizon/Levels/AK_Horizon_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "c9678d8c-4327-f397-b0ec-dca3c3d6fb15": {
+            "displayName": "Prime Vandal",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/c9678d8c-4327-f397-b0ec-dca3c3d6fb15/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/d9fe3b9b-6d9e-451f-84bd-b85d7f91a106.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/HypeBeast/AssaultRifle_AK_HypeBeast_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "fbfc273b-4c12-961a-a4fb-978b43be81a9": {
+            "displayName": "Avalanche Vandal",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/fbfc273b-4c12-961a-a4fb-978b43be81a9/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/Ice/Levels/AK_Ice_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "d0c07243-4afa-decc-7c5b-4b994f1321ee": {
+            "displayName": "Prism II Vandal",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/d0c07243-4afa-decc-7c5b-4b994f1321ee/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/Iridescence3/Levels/AK_Iridescence3_Lv1_PrimaryAsset",
+            "cost": 875
+        },
+        "a2a15c4e-4102-41bd-102d-378dec6cee7f": {
+            "displayName": "Nunca Olvidados Vandal",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/a2a15c4e-4102-41bd-102d-378dec6cee7f/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/4fbb153c-48a9-01ea-d18c-a39f53a26e4b.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/LosMuertos/Levels/AK_LosMuertos_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "1878bbc9-409e-66b4-346b-c3997a54df57": {
+            "displayName": "Luxe Vandal",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/1878bbc9-409e-66b4-346b-c3997a54df57/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/Luxury/AK_Luxury_Lv1_PrimaryAsset",
+            "cost": 875
+        },
+        "9d501eec-4084-5d44-32ef-6e8ed5b0ed49": {
+            "displayName": "Silvanus Vandal",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/9d501eec-4084-5d44-32ef-6e8ed5b0ed49/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/MysticForest/Levels/AK_MysticForest_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "f4bfff96-487a-cf9e-08cc-d590d962c4e6": {
+            "displayName": "Sensation Vandal",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/f4bfff96-487a-cf9e-08cc-d590d962c4e6/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/Rainbow/Levels/AK_Rainbow_Lv1_PrimaryAsset",
+            "cost": 875
+        },
+        "3aeef60b-48fb-02aa-31b1-068aeb351213": {
+            "displayName": "Sakura Vandal",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/3aeef60b-48fb-02aa-31b1-068aeb351213/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/Sakura/Levels/AK_Sakura_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "968efd06-4549-65f4-9fb1-3f90d612e428": {
+            "displayName": "Sentinels of Light Vandal",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/968efd06-4549-65f4-9fb1-3f90d612e428/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/ac9c4542-485d-6816-410e-9299ff3e4ff5.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/SOL/Levels/AK_SOL_Lv1_PrimaryAsset",
+            "cost": 2175
+        },
+        "ba42fe63-457a-78ce-4499-47950a698129": {
+            "displayName": "Reaver Vandal",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/ba42fe63-457a-78ce-4499-47950a698129/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/a6ee2555-4e3a-049e-916a-7ca853dd4568.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/SoulStealer/Levels/AK_Soulstealer_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "1d2e2fd5-4fef-61f2-a4ec-92819d16fcf2": {
+            "displayName": "Tethered Realms Vandal",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/1d2e2fd5-4fef-61f2-a4ec-92819d16fcf2/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/SovWorld/Levels/AK_SovWorld_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "94cf6dd4-42c5-f70e-1652-dca05fa42ad6": {
+            "displayName": "Ego Vandal",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/94cf6dd4-42c5-f70e-1652-dca05fa42ad6/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/Unstoppable/Levels/AK_Unstoppable_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "a6d41f01-4b8b-444d-b9da-3eaaf3d7e262": {
+            "displayName": "Wasteland Vandal",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/a6d41f01-4b8b-444d-b9da-3eaaf3d7e262/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/Wasteland/Levels/AK_Wasteland_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "496b0096-4000-c1fc-102d-70a8b769d0d1": {
+            "displayName": "Winterwunderland Vandal",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/496b0096-4000-c1fc-102d-70a8b769d0d1/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/Winter/Levels/AK_Winter_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "3bf9d39f-46b4-ba23-e079-488d799b9416": {
+            "displayName": "Aristocrat Bulldog",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/3bf9d39f-46b4-ba23-e079-488d799b9416/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Burst/ArtDeco/Levels/AssaultRifle_Burst_ArtDeco_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "43854c54-4263-571c-9be6-52b6d50d3190": {
+            "displayName": "Spectrum Bulldog",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/43854c54-4263-571c-9be6-52b6d50d3190/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/e4def0bf-449b-f4e9-a678-8c8d47c0e28b.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Burst/Atlas/Levels/Burst_Atlas_Lv1_PrimaryAsset",
+            "cost": 2675
+        },
+        "89b68205-4fe5-2434-a731-e5a734bd4a7a": {
+            "displayName": "Undercity Bulldog",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/89b68205-4fe5-2434-a731-e5a734bd4a7a/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Burst/Cybercity/Levels/Burst_Cybercity_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "4a5ad8cd-4684-a47c-b393-ce9c6760d21a": {
+            "displayName": "Glitchpop Bulldog",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/4a5ad8cd-4684-a47c-b393-ce9c6760d21a/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/9141f4e9-478f-46eb-a428-c32a67826aa6.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Burst/Cyberpunk/AssaultRifle_Burst_Cyberpunk_Lv1_PrimaryAsset",
+            "cost": 2175
+        },
+        "8e032580-414f-7ab4-7efb-f6ac7d2bc2f1": {
+            "displayName": "Rush Bulldog",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/8e032580-414f-7ab4-7efb-f6ac7d2bc2f1/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Burst/Electroflux/Levels/AssaultRifle_Burst_Electroflux_Lv1_PrimaryAsset",
+            "cost": 875
+        },
+        "079f6046-49c3-72e3-bcfa-a5b6d01910dc": {
+            "displayName": "Horizon Bulldog",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/079f6046-49c3-72e3-bcfa-a5b6d01910dc/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Burst/Horizon/Levels/Burst_Horizon_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "47815b56-43d7-1312-8b3e-5da445f71e31": {
+            "displayName": "Nunca Olvidados Bulldog",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/47815b56-43d7-1312-8b3e-5da445f71e31/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/73834b16-492d-29c2-d2b4-d699f533b7a4.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Burst/LosMuertos/Levels/Burst_LosMuertos_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "544ddf0f-42c6-e410-c9db-fc8b3b2c84d4": {
+            "displayName": "Protocol 781-A Bulldog",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/544ddf0f-42c6-e410-c9db-fc8b3b2c84d4/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/b33d4634-457b-4724-ceec-408677bebb2c.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Burst/Protocol/Levels/Burst_Protocol_Lv1_PrimaryAsset",
+            "cost": 2475
+        },
+        "84f8d0f4-4442-5892-6a20-8f83e65a5e96": {
+            "displayName": "Convex Bulldog",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/84f8d0f4-4442-5892-6a20-8f83e65a5e96/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Burst/Triangles/Levels/Burst_Triangles_Lv1_PrimaryAsset",
+            "cost": 875
+        },
+        "30423af3-42f9-d0ba-dee5-0b93704b39c8": {
+            "displayName": "VALORANT GO! Vol. 1 Phantom",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/30423af3-42f9-d0ba-dee5-0b93704b39c8/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Carbine/Anime/Levels/Carbine_Anime_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "82db01d1-4192-167b-9f53-78ba374c39ac": {
+            "displayName": "Spectrum Phantom",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/82db01d1-4192-167b-9f53-78ba374c39ac/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/6ce49b69-45a8-c7bb-865f-6fa6bceeea72.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Carbine/Atlas/Levels/Carbine_Atlas_Lv1_PrimaryAsset",
+            "cost": 2675
+        },
+        "52c3bbf6-491f-fef1-faa9-e19df06a687c": {
+            "displayName": "Radiant Crisis 001 Phantom",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/52c3bbf6-491f-fef1-faa9-e19df06a687c/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/4d182612-4746-6538-9243-78a25114ec2c.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Carbine/Comicbook/Levels/Carbine_Comicbook_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "40308b30-4689-9713-52fb-6f8a3534213f": {
+            "displayName": "Nebula Phantom",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/40308b30-4689-9713-52fb-6f8a3534213f/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Carbine/Cosmos/Levels/Carbine_Cosmos_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "bbc68d13-42b8-6f2c-d5b2-e79c291677c5": {
+            "displayName": "Undercity Phantom",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/bbc68d13-42b8-6f2c-d5b2-e79c291677c5/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Carbine/Cybercity/Levels/Carbine_Cybercity_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "9f6e4612-433b-aea9-1683-3db7aee90848": {
+            "displayName": "Glitchpop Phantom",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/9f6e4612-433b-aea9-1683-3db7aee90848/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/41364d33-4ec7-cf4a-72ef-e6ad28c08c8e.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Carbine/Cyberpunk2/Levels/Carbine_Cyberpunk2_Lv1_PrimaryAsset",
+            "cost": 2175
+        },
+        "0ff7ff25-42cf-769a-4e6d-bd833121302d": {
+            "displayName": "Singularity Phantom",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/0ff7ff25-42cf-769a-4e6d-bd833121302d/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/f6a15a6a-49d6-6c2b-aa72-59a7f902d28f.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Carbine/Edge/Levels/AssaultRifle_ACR_Edge_Lv1_PrimaryAsset",
+            "cost": 2175
+        },
+        "d39a4263-49d3-f2e0-2c13-c299f8644518": {
+            "displayName": "Rush Phantom",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/d39a4263-49d3-f2e0-2c13-c299f8644518/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Carbine/Electroflux/Levels/AssaultRifle_ACR_Electroflux_Lv1_PrimaryAsset",
+            "cost": 875
+        },
+        "9dc0bdd7-4d88-9360-38d6-3ea62b1daaca": {
+            "displayName": "Prime//2.0 Phantom",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/9dc0bdd7-4d88-9360-38d6-3ea62b1daaca/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/5dcc377a-429e-bdb9-f780-998c2b987a7c.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Carbine/HypeBeast2/Levels/AssaultRifle_ACR_HypeBeast2_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "66f68f67-4f5e-8188-8ba8-b183e25e93e7": {
+            "displayName": "Avalanche Phantom",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/66f68f67-4f5e-8188-8ba8-b183e25e93e7/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Carbine/Ice/Levels/AssaultRifle_ACR_IceLv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "4845a7ab-4120-ae1c-aec1-9e915a7424b1": {
+            "displayName": "Prism Phantom",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/4845a7ab-4120-ae1c-aec1-9e915a7424b1/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Carbine/Iridescence/Levels/AssaultRifle_ACR_IridescenceLv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "279e0a89-4dd6-b135-cef9-8ebb1df6f2ac": {
+            "displayName": "Ruination Phantom",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/279e0a89-4dd6-b135-cef9-8ebb1df6f2ac/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/bd9ebcc4-4a3a-b8cb-9cda-d5838341a4c0.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Carbine/King/Levels/Carbine_King_Lv1_PrimaryAsset",
+            "cost": 2175
+        },
+        "19b20b51-472b-e837-e5da-f8a348110dbf": {
+            "displayName": "Smite Phantom",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/19b20b51-472b-e837-e5da-f8a348110dbf/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Carbine/Lightning/Levels/Carbine_Lightning_Lv1_PrimaryAsset",
+            "cost": 875
+        },
+        "aa610521-4bea-bc0e-1bd4-94b67fd90db6": {
+            "displayName": "Celestial Phantom",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/aa610521-4bea-bc0e-1bd4-94b67fd90db6/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Carbine/Lunar/Levels/Carbine_Lunar_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "04dbf8e5-44fc-73f7-0655-8ca05a47739c": {
+            "displayName": "Spline Phantom",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/04dbf8e5-44fc-73f7-0655-8ca05a47739c/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Carbine/MagicSpline/Levels/Carbine_MagicSpline_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "186d9fbb-400e-665b-e5f3-c08b24b6974f": {
+            "displayName": "Minima Phantom",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/186d9fbb-400e-665b-e5f3-c08b24b6974f/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Carbine/Minima/Levels/Carbine_Minima_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "f38b2545-4498-48b3-150e-1589e25e7aa7": {
+            "displayName": "Galleria Phantom",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/f38b2545-4498-48b3-150e-1589e25e7aa7/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Carbine/Murals/Levels/AssaultRifle_ACR_Murals_Lv1_PrimaryAsset",
+            "cost": 875
+        },
+        "a127c324-4213-23a2-ff77-1284431dad74": {
+            "displayName": "Silvanus Phantom",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/a127c324-4213-23a2-ff77-1284431dad74/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Carbine/MysticForest/Levels/Carbine_MysticForest_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "b8bb264c-4578-2410-8dfa-6aacfeb318b0": {
+            "displayName": "Ion Phantom",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/b8bb264c-4578-2410-8dfa-6aacfeb318b0/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/8c999cd4-464f-e7e3-d4ab-b9bcd07e2e52.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Carbine/Oblivion/AssaultRifle_ACR_Oblivion_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "c00e786e-4e6f-0ef7-0ce3-32ba9918ba41": {
+            "displayName": "Oni Phantom",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/c00e786e-4e6f-0ef7-0ce3-32ba9918ba41/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/d95f2acb-428c-2abd-3e6c-c2af3806bee9.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Carbine/Oni/AssaultRifle_ACR_Oni_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "a7cf8684-41a0-3dd4-e30c-6f9b4b34e635": {
+            "displayName": "Protocol 781-A Phantom",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/a7cf8684-41a0-3dd4-e30c-6f9b4b34e635/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/d81f9aae-4071-3a67-3acb-b898f3f6e9d1.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Carbine/Protocol/Levels/Carbine_Protocol_Lv1_PrimaryAsset",
+            "cost": 2475
+        },
+        "00eb5b5b-4697-44b5-a926-7e86b730e812": {
+            "displayName": "Snowfall Phantom",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/00eb5b5b-4697-44b5-a926-7e86b730e812/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Carbine/Snowglobe/Levels/Carbine_Snowglobe_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "5be0b43b-4e66-ab8a-91d9-be9137e2e1c2": {
+            "displayName": "Recon Phantom",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/5be0b43b-4e66-ab8a-91d9-be9137e2e1c2/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/89ea0df6-4d76-cb26-95c5-79bd165442cc.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Carbine/SpecOps/Levels/Carbine_SpecOps_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "437fae46-4145-c8a5-14d7-9c8a05bddb05": {
+            "displayName": "Tigris Phantom",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/437fae46-4145-c8a5-14d7-9c8a05bddb05/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Carbine/Tiger/Levels/Carbine_Tiger_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "7b534393-40b0-38d0-1ffc-2b8b78708264": {
+            "displayName": "BlastX Phantom",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/7b534393-40b0-38d0-1ffc-2b8b78708264/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/2dd422ce-49d2-8fef-98ce-9e8233fb7a24.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Carbine/URF/Carbine_URF_Lv1_PrimaryAsset",
+            "cost": 2175
+        },
+        "63a65008-4266-1117-fe3d-d1bf290b7da9": {
+            "displayName": "Winterwunderland Phantom",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/63a65008-4266-1117-fe3d-d1bf290b7da9/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Carbine/Winter/Levels/Carbine_Winter_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "f27be4ed-4fa5-9c3a-592a-b98bb455fd12": {
+            "displayName": "Undercity Judge",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/f27be4ed-4fa5-9c3a-592a-b98bb455fd12/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Shotguns/AutoShotgun/Cybercity/Levels/AutoShotgun_Cybercity_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "712c7a37-4524-0b27-dfdd-4e95181dd36e": {
+            "displayName": "Glitchpop Judge",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/712c7a37-4524-0b27-dfdd-4e95181dd36e/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/6f896b22-d427-4051-94a5-add388e5e946.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Shotguns/AutoShotgun/Cyberpunk/AutomaticShotgun_Cyberpunk_Lv1_PrimaryAsset",
+            "cost": 2175
+        },
+        "d8c9fee3-4e02-bc92-a235-608a556905ae": {
+            "displayName": "Elderflame Judge",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/d8c9fee3-4e02-bc92-a235-608a556905ae/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/9bc9589a-a2c4-43f4-a29a-8d1d6b09a763.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Shotguns/AutoShotgun/Dragon/AutomaticShotgun_Dragon_Lv1_PrimaryAsset",
+            "cost": 2475
+        },
+        "33d3c906-4305-19cf-8770-1eb5207482cc": {
+            "displayName": "Rush Judge",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/33d3c906-4305-19cf-8770-1eb5207482cc/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Shotguns/AutoShotgun/Electroflux/Levels/AutomaticShotgun_Electroflux_Lv1_PrimaryAsset",
+            "cost": 875
+        },
+        "1b94d997-4db6-014f-4cb8-c1b4df7d7ebc": {
+            "displayName": "Smite Judge",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/1b94d997-4db6-014f-4cb8-c1b4df7d7ebc/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Shotguns/AutoShotgun/Lightning/Levels/AutomaticShotgun_Lightning_Lv1_PrimaryAsset",
+            "cost": 875
+        },
+        "4f45735c-4513-e9a6-48ac-35acca4c3410": {
+            "displayName": "Celestial Judge",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/4f45735c-4513-e9a6-48ac-35acca4c3410/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Shotguns/AutoShotgun/Lunar/Levels/AutoShotgun_Lunar_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "cfeb4b7a-4310-796c-db4e-fb9844823992": {
+            "displayName": "Luxe Judge",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/cfeb4b7a-4310-796c-db4e-fb9844823992/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Shotguns/AutoShotgun/Luxury/Levels/AutomaticShotgun_Luxury_Lv1_PrimaryAsset",
+            "cost": 875
+        },
+        "65ed014b-4279-8ba5-01d3-f48d4e7f115c": {
+            "displayName": "Sensation Judge",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/65ed014b-4279-8ba5-01d3-f48d4e7f115c/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Shotguns/AutoShotgun/Rainbow/Levels/AutoShotgun_Rainbow_Lv1_PrimaryAsset",
+            "cost": 875
+        },
+        "e1b5cdca-4df5-5c4e-f34a-3cbdd3fd8735": {
+            "displayName": "Snowfall Judge",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/e1b5cdca-4df5-5c4e-f34a-3cbdd3fd8735/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Shotguns/AutoShotgun/Snowglobe/Levels/AutoShotgun_Snowglobe_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "73e91435-4a2a-2552-d541-eb961e168f2c": {
+            "displayName": "Convex Judge",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/73e91435-4a2a-2552-d541-eb961e168f2c/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Shotguns/AutoShotgun/Triangles/Levels/AutomaticShotgun_Triangles_Lv1_PrimaryAsset",
+            "cost": 875
+        },
+        "56042ce2-4f95-19be-7cac-5fb191683953": {
+            "displayName": "Origin Bucky",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/56042ce2-4f95-19be-7cac-5fb191683953/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/200862ec-406b-b09e-8bc9-2ca7c37a40af.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Shotguns/PumpShotgun/Circle/Levels/PumpShotgun_Circle_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "bddfd0ba-49a1-0f4f-e32a-d5a1ed29d5fc": {
+            "displayName": "Radiant Crisis 001 Bucky",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/bddfd0ba-49a1-0f4f-e32a-d5a1ed29d5fc/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/6e6a5d75-43b7-5527-e8d2-7e9dc9c6644b.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Shotguns/PumpShotgun/Comicbook/Levels/PumpShotgun_Comicbook_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "f7425a39-43ca-e1fe-5b2b-56a51ed479c5": {
+            "displayName": "Horizon Bucky",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/f7425a39-43ca-e1fe-5b2b-56a51ed479c5/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Shotguns/PumpShotgun/Horizon/Levels/PumpShotgun_Horizon_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "f987be1f-4287-35a4-34a9-d6a92805e7ff": {
+            "displayName": "Prime//2.0 Bucky",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/f987be1f-4287-35a4-34a9-d6a92805e7ff/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/828e13c6-4160-95aa-dd6f-04b1262f3742.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Shotguns/PumpShotgun/HypeBeast2/Levels/PumpShotgun_HypeBeast2_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "1ef3c871-45db-0f6d-fc34-8bb2685cd6c0": {
+            "displayName": "Prism II Bucky",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/1ef3c871-45db-0f6d-fc34-8bb2685cd6c0/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Shotguns/PumpShotgun/Iridescence3/Levels/PumpShotgun_Iridescence3_Lv1_PrimaryAsset",
+            "cost": 875
+        },
+        "78776175-4040-282f-07a1-0199b1fdcf58": {
+            "displayName": "Magepunk Bucky",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/78776175-4040-282f-07a1-0199b1fdcf58/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/7c2c4ef0-46b4-ea35-c2c2-15acd4581e87.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Shotguns/PumpShotgun/Magepunk/PumpShotgun_Magepunk_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "03e03718-4c65-8a47-fb8b-78ba233cecd1": {
+            "displayName": "Galleria Bucky",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/03e03718-4c65-8a47-fb8b-78ba233cecd1/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Shotguns/PumpShotgun/Murals/Levels/PumpShotgun_Murals_Lv1_PrimaryAsset",
+            "cost": 875
+        },
+        "f00520c8-4b70-7255-d23c-c0a4887656a2": {
+            "displayName": "Ion Bucky",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/f00520c8-4b70-7255-d23c-c0a4887656a2/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/f9a37d70-4551-379b-4829-edba397b503d.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Shotguns/PumpShotgun/Oblivion/Levels/PumpShotgun_OblivionLv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "cdc130c2-4b12-3702-c8f6-5a8920746395": {
+            "displayName": "Oni Bucky",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/cdc130c2-4b12-3702-c8f6-5a8920746395/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/e3fe12f7-4e0b-987e-f191-c3b34a313a84.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Shotguns/PumpShotgun/Oni/Levels/PumpShotgun_Oni_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "22c0aaa3-4919-5a7b-90c0-2dacafdc32fe": {
+            "displayName": "Gravitational Uranium Neuroblaster Bucky",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/22c0aaa3-4919-5a7b-90c0-2dacafdc32fe/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/1db4b936-467f-7cdc-536b-27b9cc559260.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Shotguns/PumpShotgun/Raygun/Levels/PumpShotgun_Raygun_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "6f2aefab-439d-140a-4dc6-87818e2d72cd": {
+            "displayName": "RGX 11z Pro Frenzy",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/6f2aefab-439d-140a-4dc6-87818e2d72cd/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/bb83c26d-4173-b98c-a524-c89497bbd0c5.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/AutoPistol/Afterglow/Levels/AutoPistol_Afterglow_Lv1_PrimaryAsset",
+            "cost": 2175
+        },
+        "c4547e69-47a7-dc52-d09c-94bbf87dba0a": {
+            "displayName": "Origin Frenzy",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/c4547e69-47a7-dc52-d09c-94bbf87dba0a/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/96f7c707-4cef-36d2-0897-44a2170496b0.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/AutoPistol/Circle/Levels/AutoPistol_Circle_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "4b74b3ee-4a63-7339-a28f-8b8be010ca5a": {
+            "displayName": "Glitchpop Frenzy",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/4b74b3ee-4a63-7339-a28f-8b8be010ca5a/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/60d541f1-7ee3-4877-8af6-697c99e28d51.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/AutoPistol/Cyberpunk/AutomaticPistol_Cyberpunk_Lv1_PrimaryAsset",
+            "cost": 2175
+        },
+        "ea65ba94-468d-39a8-5ded-98820d72d19f": {
+            "displayName": "Elderflame Frenzy",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/ea65ba94-468d-39a8-5ded-98820d72d19f/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/83783875-f20d-499e-add9-bee9cb81f01e.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/AutoPistol/Dragon/Levels/AutomaticPistol_Dragon_Lv1_PrimaryAsset",
+            "cost": 2475
+        },
+        "3e32c58e-4347-e4b1-4502-6dab0dc516a8": {
+            "displayName": "Rush Frenzy",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/3e32c58e-4347-e4b1-4502-6dab0dc516a8/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/AutoPistol/Electroflux/Levels/AutomaticPistol_Electroflux_Lv1_PrimaryAsset",
+            "cost": 875
+        },
+        "7cd7c895-4da5-a3bc-3518-ff8d53af5151": {
+            "displayName": "Horizon Frenzy",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/7cd7c895-4da5-a3bc-3518-ff8d53af5151/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/AutoPistol/Horizon/Levels/AutoPistol_Horizon_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "2607b2c6-45f7-e75e-94f8-58a738773d5c": {
+            "displayName": "Prime//2.0 Frenzy",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/2607b2c6-45f7-e75e-94f8-58a738773d5c/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/221c1a5c-4e6c-8744-a68f-5e80b34adabb.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/AutoPistol/HypeBeast2/Levels/AutomaticPistol_HypeBeast2_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "55869fb8-4a79-e684-2000-028fa9f54060": {
+            "displayName": "Nunca Olvidados Frenzy",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/55869fb8-4a79-e684-2000-028fa9f54060/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/491bdf21-4983-ddd7-c53d-5492562222b9.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/AutoPistol/LosMuertos/Levels/AutoPistol_LosMuertos_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "4efc0af7-4623-cb2e-997c-6cbf2e5ddfb4": {
+            "displayName": "Celestial Frenzy",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/4efc0af7-4623-cb2e-997c-6cbf2e5ddfb4/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/AutoPistol/Lunar/Levels/AutoPistol_Lunar_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "5a773352-456e-ef0b-35ab-c99ead159264": {
+            "displayName": "Sensation Frenzy",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/5a773352-456e-ef0b-35ab-c99ead159264/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/AutoPistol/Rainbow/Levels/AutoPistol_Rainbow_Lv1_PrimaryAsset",
+            "cost": 875
+        },
+        "31da3ec9-4eb0-ce9f-fcbb-e09ec626e748": {
+            "displayName": "BlastX Frenzy",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/31da3ec9-4eb0-ce9f-fcbb-e09ec626e748/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/dcbc140b-4fba-79e0-672f-1980abb92dff.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/AutoPistol/URF/AutoPistol_URF_Lv1_PrimaryAsset",
+            "cost": 2175
+        },
+        "68ee5c6c-4424-e95a-f46f-c08ec2dfeb97": {
+            "displayName": "VALORANT GO! Vol. 2 Classic",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/68ee5c6c-4424-e95a-f46f-c08ec2dfeb97/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/BasePistol/Anime2/Levels/BasePistol_Anime2_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "fe32e4bd-420f-b4cc-de37-febb78df9e16": {
+            "displayName": "Spectrum Classic",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/fe32e4bd-420f-b4cc-de37-febb78df9e16/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/bb03aa45-4115-664c-22b9-bf8ef20f0d12.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/BasePistol/Atlas/Levels/BasePistol_Atlas_Lv1_PrimaryAsset",
+            "cost": 2675
+        },
+        "13f3818c-4518-cf39-51f6-8cad1dc5bfc6": {
+            "displayName": "Radiant Crisis 001 Classic",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/13f3818c-4518-cf39-51f6-8cad1dc5bfc6/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/d9ddc50a-4c73-c47a-2921-c69f741c7346.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/BasePistol/Comicbook/Levels/BasePistol_Comicbook_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "1590d353-4b81-4207-b79a-5493231cbee7": {
+            "displayName": "Undercity Classic",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/1590d353-4b81-4207-b79a-5493231cbee7/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/BasePistol/Cybercity/Levels/BasePistol_Cybercity_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "25cb63cd-416e-ab23-2377-d18638679871": {
+            "displayName": "Glitchpop Classic",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/25cb63cd-416e-ab23-2377-d18638679871/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/f59f33e5-4158-0d7e-8747-28b76f0f2552.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/BasePistol/Cyberpunk2/Levels/BasePistol_Cyberpunk2_Lv1_PrimaryAsset",
+            "cost": 2175
+        },
+        "81658642-4f78-cbb4-9e40-b8856a904bc7": {
+            "displayName": "Forsaken Classic",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/81658642-4f78-cbb4-9e40-b8856a904bc7/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/0bc2a721-40cc-1ba9-6b03-66bcd365358c.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/BasePistol/Fallen/Levels/BasePistol_Fallen_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "c7695ce7-4fc9-1c79-64b3-8c8f9e21571c": {
+            "displayName": "Prime Classic",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/c7695ce7-4fc9-1c79-64b3-8c8f9e21571c/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/72d67dd0-0d79-4c98-9e1d-c10068b024a8.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/BasePistol/HypeBeast/BasePistol_HypeBeast_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "3800390c-4192-92d1-1703-33ba231fc226": {
+            "displayName": "Avalanche Classic",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/3800390c-4192-92d1-1703-33ba231fc226/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/BasePistol/Ice/Levels/BasePistol_IceLv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "eb35e4e1-4138-9ece-08e2-69bd414cf598": {
+            "displayName": "Smite Classic",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/eb35e4e1-4138-9ece-08e2-69bd414cf598/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/BasePistol/Lightning/Levels/BasePistol_Lightning_Lv1_PrimaryAsset",
+            "cost": 875
+        },
+        "1b300b91-41bb-d468-f65f-f68ec0861bd6": {
+            "displayName": "Spline Classic",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/1b300b91-41bb-d468-f65f-f68ec0861bd6/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/BasePistol/MagicSpline/Levels/BasePistol_MagicSpline_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "b8bc5d1b-44aa-aa83-0246-b1a6bb496177": {
+            "displayName": "Galleria Classic",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/b8bc5d1b-44aa-aa83-0246-b1a6bb496177/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/BasePistol/Murals/Levels/BasePistol_Murals_Lv1_PrimaryAsset",
+            "cost": 875
+        },
+        "f35f6e13-4b7b-da38-c0de-5c91fffd584b": {
+            "displayName": "Gravitational Uranium Neuroblaster Classic",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/f35f6e13-4b7b-da38-c0de-5c91fffd584b/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/89cf05f6-4918-f8f5-12f8-97882c528962.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/BasePistol/Raygun/Levels/BasePistol_Raygun_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "df639108-4e9d-7fc1-51da-4dbb810ba011": {
+            "displayName": "Sakura Classic",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/df639108-4e9d-7fc1-51da-4dbb810ba011/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/BasePistol/Sakura/Levels/BasePistol_Sakura_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "f2a7150b-4894-0dc8-53b3-bf9a30fa4ea4": {
+            "displayName": "Snowfall Classic",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/f2a7150b-4894-0dc8-53b3-bf9a30fa4ea4/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/BasePistol/Snowglobe/Levels/BasePistol_Snowglobe_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "2dd042e4-409e-c8ed-ec76-758529e49d99": {
+            "displayName": "VALORANT GO! Vol. 1 Ghost",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/2dd042e4-409e-c8ed-ec76-758529e49d99/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/Luger/Anime/Levels/Luger_Anime_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "a14fa0b5-4b03-2ad9-3b0e-a3ac6a0b033b": {
+            "displayName": "Infantry Ghost",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/a14fa0b5-4b03-2ad9-3b0e-a3ac6a0b033b/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/Luger/Historical/Levels/Luger_Historical_Lv1_PrimaryAsset",
+            "cost": 875
+        },
+        "5546f723-4056-6700-80b8-f1b8d42e4952": {
+            "displayName": "Prism Ghost",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/5546f723-4056-6700-80b8-f1b8d42e4952/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/Luger/Iridescence/Levels/LugerPistol_IridescenceLv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "5e1f5465-40cd-2c0f-33ab-398c5367d080": {
+            "displayName": "Ruination Ghost",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/5e1f5465-40cd-2c0f-33ab-398c5367d080/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/89f65edf-430b-dfe9-c315-148bdbef5df9.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/Luger/King/Levels/Luger_King_Lv1_PrimaryAsset",
+            "cost": 2175
+        },
+        "68564c51-4f7e-67d1-fd0d-4e9d216356e8": {
+            "displayName": "Luxe Ghost",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/68564c51-4f7e-67d1-fd0d-4e9d216356e8/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/Luger/Luxury/Luger_Luxury_Lv1_PrimaryAsset",
+            "cost": 875
+        },
+        "003e0991-4370-8837-f8fc-6ab3acec2dbf": {
+            "displayName": "Magepunk Ghost",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/003e0991-4370-8837-f8fc-6ab3acec2dbf/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/b8eef80e-45c8-d612-91cb-1ba5b8025ba8.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/Luger/Magepunk/Luger_Magepunk_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "ed8a1109-4e48-f077-636b-e98dd332bfcc": {
+            "displayName": "Sovereign Ghost",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/ed8a1109-4e48-f077-636b-e98dd332bfcc/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/fd840e0f-6961-4794-900e-8f4350be4679.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/Luger/Sovereign/LugerPistol_Sovereign_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "b9f4e6ea-4db2-6939-731f-0eb93cfbbb1d": {
+            "displayName": "Tethered Realms Ghost",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/b9f4e6ea-4db2-6939-731f-0eb93cfbbb1d/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/Luger/SovWorld/Levels/Luger_SovWorld_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "459343eb-4c56-4f10-ff2f-fbbf07d3695d": {
+            "displayName": "Recon Ghost",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/459343eb-4c56-4f10-ff2f-fbbf07d3695d/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/70e53888-4ec6-11fe-5844-568911089f7e.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/Luger/SpecOps/Levels/Luger_SpecOps_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "f9fab42c-46bf-1bf0-dba5-32988be03fc2": {
+            "displayName": "Ego Ghost",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/f9fab42c-46bf-1bf0-dba5-32988be03fc2/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/Luger/Unstoppable/Levels/Luger_Unstoppable_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "d0fda3cb-454c-e81d-94e4-42942c99f02d": {
+            "displayName": "Winterwunderland Ghost",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/d0fda3cb-454c-e81d-94e4-42942c99f02d/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/Luger/Winter/Levels/Luger_Winter_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "6d4766d0-41f0-8493-93eb-a4902a0c6034": {
+            "displayName": "Aristocrat Sheriff",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/6d4766d0-41f0-8493-93eb-a4902a0c6034/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/Revolver/ArtDeco/Levels/RevolverPistol_ArtDecoLv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "353c1e5f-4258-c49a-c0d6-319ad33bffea": {
+            "displayName": "Nebula Sheriff",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/353c1e5f-4258-c49a-c0d6-319ad33bffea/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/Revolver/Cosmos/Levels/Revolver_Cosmos_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "4276d2b5-4b1c-b636-aff0-4ea579d875d7": {
+            "displayName": "Singularity Sheriff",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/4276d2b5-4b1c-b636-aff0-4ea579d875d7/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/734a94cd-420a-7118-0355-7e8e78628297.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/Revolver/Edge/Levels/RevolverPistol_Edge_Lv1_PrimaryAsset",
+            "cost": 2175
+        },
+        "b6e6ea9e-432d-ec17-904e-62a5ea45f1a7": {
+            "displayName": "Prism II Sheriff",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/b6e6ea9e-432d-ec17-904e-62a5ea45f1a7/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/Revolver/Iridescence3/Levels/Revolver_Iridescence3_Lv1_PrimaryAsset",
+            "cost": 875
+        },
+        "59733cf9-490b-e25b-2c6f-eca947628079": {
+            "displayName": "Magepunk Sheriff",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/59733cf9-490b-e25b-2c6f-eca947628079/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/09902b8c-439e-7a7b-2118-568d6b7d90c6.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/Revolver/Magepunk2/Levels/Revolver_Magepunk2_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "75b110de-40e5-3e02-d700-2abda38817c5": {
+            "displayName": "Minima Sheriff",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/75b110de-40e5-3e02-d700-2abda38817c5/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/Revolver/Minima/Levels/Revolver_Minima_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "9dbc52e2-4889-cbe5-b874-4f8f0f8f3781": {
+            "displayName": "Silvanus Sheriff",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/9dbc52e2-4889-cbe5-b874-4f8f0f8f3781/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/Revolver/MysticForest/Levels/Revolver_MysticForest_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "2b555f97-46bb-5949-3531-979f5bc817f0": {
+            "displayName": "Ion Sheriff",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/2b555f97-46bb-5949-3531-979f5bc817f0/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/aa2185f1-4677-31ed-43e4-b6bec932c597.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/Revolver/Oblivion/Levels/RevolverPistol_OblivionLv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "12831559-44ee-c708-b97c-29a43938e3cd": {
+            "displayName": "Protocol 781-A Sheriff",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/12831559-44ee-c708-b97c-29a43938e3cd/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/89832511-42c5-c640-6a76-18b6bc5dac3b.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/Revolver/Protocol/Levels/Revolver_Protocol_Lv1_PrimaryAsset",
+            "cost": 2475
+        },
+        "c8652efa-462f-d455-20b0-699dd00a9e2a": {
+            "displayName": "Sakura Sheriff",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/c8652efa-462f-d455-20b0-699dd00a9e2a/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/Revolver/Sakura/Levels/RevolverPistol_SakuraLv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "746a022b-48a9-c51b-f379-11a3e1e2bc8e": {
+            "displayName": "Sentinels of Light Sheriff",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/746a022b-48a9-c51b-f379-11a3e1e2bc8e/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/c7d6901a-4695-f4b7-a26f-6896a5a12fff.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/Revolver/SOL/Levels/Revolver_SOL_Lv1_PrimaryAsset",
+            "cost": 2175
+        },
+        "4e4ebb8d-41d0-c326-595a-1f9b257e91fa": {
+            "displayName": "Reaver Sheriff",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/4e4ebb8d-41d0-c326-595a-1f9b257e91fa/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/8395a67a-499f-5a14-8024-0e928b81bc2b.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/Revolver/SoulStealer/Levels/RevolverPistol_Soulstealer_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "4538bff7-470c-889c-9875-7ba3ebf87c87": {
+            "displayName": "Convex Sheriff",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/4538bff7-470c-889c-9875-7ba3ebf87c87/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/Revolver/Triangles/Levels/RevolverPistol_Triangles_Lv1_PrimaryAsset",
+            "cost": 875
+        },
+        "0d73596b-478a-dae0-49ca-2fa588f78f13": {
+            "displayName": "Wasteland Sheriff",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/0d73596b-478a-dae0-49ca-2fa588f78f13/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/Revolver/Wasteland/Levels/RevolverPistol_Wasteland_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "61f62d77-4f80-7664-2ea9-538f6fc4b241": {
+            "displayName": "Prism II Shorty",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/61f62d77-4f80-7664-2ea9-538f6fc4b241/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/Slim/Iridescence3/Levels/Slim_Iridescence3_Lv1_PrimaryAsset",
+            "cost": 875
+        },
+        "a2950772-447a-f2db-be24-19b0e0ed736f": {
+            "displayName": "Oni Shorty",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/a2950772-447a-f2db-be24-19b0e0ed736f/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/4ee54682-40e8-d2f7-b916-d3a91ed2f0ba.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/Slim/Oni/Levels/SawedOffShotgun_Oni_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "9f282aa1-4d3e-7595-83ca-0a97fc89ba31": {
+            "displayName": "Tigris Shorty",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/9f282aa1-4d3e-7595-83ca-0a97fc89ba31/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/Slim/Tiger/Levels/Slim_Tiger_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "a88a4c80-4913-a111-0fba-878adddd381a": {
+            "displayName": "Wasteland Shorty",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/a88a4c80-4913-a111-0fba-878adddd381a/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/Slim/Wasteland/Levels/Slim_Wasteland_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "68811d2b-4a6d-cbdc-39d3-f580aa97a297": {
+            "displayName": "VALORANT GO! Vol. 2 Operator",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/68811d2b-4a6d-cbdc-39d3-f580aa97a297/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Boltsniper/Anime2/Levels/BoltSniper_Anime2_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "4d19c241-4350-6658-f5a6-5c99ca8e5e99": {
+            "displayName": "Origin Operator",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/4d19c241-4350-6658-f5a6-5c99ca8e5e99/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/94e2ba49-48d1-a939-1baa-9b922ab1d131.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Boltsniper/Circle/Levels/BoltSniper_Circle_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "d92a6ee6-4073-8b7f-e944-f1a55606a28a": {
+            "displayName": "Glitchpop Operator",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/d92a6ee6-4073-8b7f-e944-f1a55606a28a/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/8f1980c7-42f9-641a-3ab5-03bc90b4c93f.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Boltsniper/Cyberpunk2/Levels/BoltSniper_Cyberpunk2_Lv1_PrimaryAsset",
+            "cost": 2175
+        },
+        "5c273d0e-47fa-bb8c-d914-728de95da30e": {
+            "displayName": "Elderflame Operator",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/5c273d0e-47fa-bb8c-d914-728de95da30e/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/0e1f79a5-81ae-4d21-b3c5-740605b7e054.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Boltsniper/Dragon/Levels/BoltSniper_Dragon_Lv1_PrimaryAsset",
+            "cost": 2475
+        },
+        "10a5fe91-4efa-9d6b-44f7-47ae9660550d": {
+            "displayName": "Forsaken Operator",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/10a5fe91-4efa-9d6b-44f7-47ae9660550d/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/718e02de-4f61-8f87-7d4c-8fa613256886.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Boltsniper/Fallen/Levels/BoltSniper_Fallen_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "e7301730-418f-e0fb-c930-9598741d5c30": {
+            "displayName": "Infantry Operator",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/e7301730-418f-e0fb-c930-9598741d5c30/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Boltsniper/Historical/Levels/BoltSniper_Historical_Lv1_PrimaryAsset",
+            "cost": 875
+        },
+        "37851a69-4719-d8ae-d305-49bcee8d853c": {
+            "displayName": "Prism Operator",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/37851a69-4719-d8ae-d305-49bcee8d853c/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Boltsniper/Iridescence/Levels/BoltSniper_IridescenceLv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "e5a2e04a-4805-1244-5376-06b40d7c6cbb": {
+            "displayName": "Luxe Operator",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/e5a2e04a-4805-1244-5376-06b40d7c6cbb/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Boltsniper/Luxury/BoltSniper_Luxury_Lv1_PrimaryAsset",
+            "cost": 875
+        },
+        "369c9f89-49fa-94bc-f3f8-b9b94b6395af": {
+            "displayName": "Magepunk Operator",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/369c9f89-49fa-94bc-f3f8-b9b94b6395af/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/02bbd673-4cc6-ae85-8667-2b8d295e5bd4.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Boltsniper/Magepunk2/Levels/BoltSniper_Magepunk2_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "4c053776-467f-2c6a-b609-0ba3ea371a14": {
+            "displayName": "Spline Operator",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/4c053776-467f-2c6a-b609-0ba3ea371a14/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Boltsniper/MagicSpline/BoltSniper_MagicSpline_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "436f42cc-49c5-b535-4fdf-c0bd48695919": {
+            "displayName": "Minima Operator",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/436f42cc-49c5-b535-4fdf-c0bd48695919/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Boltsniper/Minima/Levels/BoltSniper_Minima_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "49b00063-4a7e-6c73-b8c9-68a8d5727757": {
+            "displayName": "Silvanus Operator",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/49b00063-4a7e-6c73-b8c9-68a8d5727757/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Boltsniper/MysticForest/Levels/BoltSniper_MysticForest_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "24c73c29-443c-2440-d6db-838086f2451a": {
+            "displayName": "Ion Operator",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/24c73c29-443c-2440-d6db-838086f2451a/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/e98cb6d3-4acc-71a7-f67c-8bb85292f2a2.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Boltsniper/Oblivion/Levels/BoltSniper_OblivionLv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "4aa31563-44e1-0d9f-f95a-a1b9965ad762": {
+            "displayName": "Gravitational Uranium Neuroblaster Operator",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/4aa31563-44e1-0d9f-f95a-a1b9965ad762/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/ed387333-40ca-22fe-b5bc-0bac33c51492.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Boltsniper/Raygun/Levels/BoltSniper_Raygun_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "69657d05-4309-9779-d445-6da864067246": {
+            "displayName": "Sentinels of Light Operator",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/69657d05-4309-9779-d445-6da864067246/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/2e921b32-4aca-b3fa-5b55-3ab74d31daa3.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Boltsniper/SOL/Levels/BoltSniper_SOL_Lv1_PrimaryAsset",
+            "cost": 2175
+        },
+        "7bfab387-4e97-d815-4488-c491e3a5520c": {
+            "displayName": "Reaver Operator",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/7bfab387-4e97-d815-4488-c491e3a5520c/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/ea996485-496b-c83f-ac73-71b9144326cc.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Boltsniper/SoulStealer/Levels/BoltSniper_Soulstealer_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "65d832e3-4b34-b4b9-fde0-9d897d5fe51b": {
+            "displayName": "Tethered Realms Operator",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/65d832e3-4b34-b4b9-fde0-9d897d5fe51b/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Boltsniper/SovWorld/Levels/BoltSniper_SovWorld_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "2ecb0e86-4a14-b33b-8fe1-db96f2c3aa69": {
+            "displayName": "Tigris Operator",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/2ecb0e86-4a14-b33b-8fe1-db96f2c3aa69/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Boltsniper/Tiger/Levels/BoltSniper_Tiger_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "ed333b00-4e88-a9c5-d309-acae85438e93": {
+            "displayName": "Convex Operator",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/ed333b00-4e88-a9c5-d309-acae85438e93/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Boltsniper/Triangles/Levels/BoltSniper_Triangles_Lv1_PrimaryAsset",
+            "cost": 875
+        },
+        "43361d49-4331-ee30-e356-0f925e6e17b9": {
+            "displayName": "RGX 11z Pro Guardian",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/43361d49-4331-ee30-e356-0f925e6e17b9/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/6cac813b-459b-b909-090e-108a462da16e.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Afterglow/Levels/DMR_Afterglow_Lv1_PrimaryAsset",
+            "cost": 2175
+        },
+        "920d9d08-4f22-9f1e-b309-ddbbe5ecb91c": {
+            "displayName": "VALORANT GO! Vol. 1 Guardian",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/920d9d08-4f22-9f1e-b309-ddbbe5ecb91c/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Anime/Levels/DMR_Anime_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "19ba907b-4a76-347f-ea24-38990c9ff755": {
+            "displayName": "Spectrum Guardian",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/19ba907b-4a76-347f-ea24-38990c9ff755/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/d821386e-4b80-39bd-6aa8-b1a5d78388da.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Atlas/Levels/DMR_Atlas_Lv1_PrimaryAsset",
+            "cost": 2675
+        },
+        "bf6df430-4e46-5c51-df6f-c2bc3b1cb4fe": {
+            "displayName": "Nebula Guardian",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/bf6df430-4e46-5c51-df6f-c2bc3b1cb4fe/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Cosmos/Levels/DMR_CosmosLv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "a2c59452-4420-130a-9aa1-cb8ea551a05d": {
+            "displayName": "Infantry Guardian",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/a2c59452-4420-130a-9aa1-cb8ea551a05d/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Historical/Levels/DMR_Historical_Lv1_PrimaryAsset",
+            "cost": 875
+        },
+        "9336ab9d-445c-0872-a283-9f9b61a0098a": {
+            "displayName": "Prime Guardian",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/9336ab9d-445c-0872-a283-9f9b61a0098a/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/bf10d326-196e-4388-b5a0-8fda40d738e2.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Hypebeast/DMR_HypeBeast_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "0e1af0d5-4dee-15db-25b5-31a7da6f1d52": {
+            "displayName": "Ruination Guardian",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/0e1af0d5-4dee-15db-25b5-31a7da6f1d52/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/51b25a4a-4db8-86cc-3a64-76a5772a6e13.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/King/Levels/DMR_King_Lv1_PrimaryAsset",
+            "cost": 2175
+        },
+        "e63eab09-47e4-25be-6c9f-57995385429d": {
+            "displayName": "Magepunk Guardian",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/e63eab09-47e4-25be-6c9f-57995385429d/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/ac664eda-4e3e-5910-1639-7798191773be.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Magepunk2/Levels/DMR_Magepunk2_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "7a0374af-42f5-2f99-b535-a997f2179717": {
+            "displayName": "Galleria Guardian",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/7a0374af-42f5-2f99-b535-a997f2179717/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Murals/Levels/DMR_Murals_Lv1_PrimaryAsset",
+            "cost": 875
+        },
+        "fee2c305-40d1-1cca-08b8-46bceda98eca": {
+            "displayName": "Oni Guardian",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/fee2c305-40d1-1cca-08b8-46bceda98eca/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/6b731284-4cdc-6345-cea7-8c9cb9882450.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Oni/Levels/DMR_Oni_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "c9f0ea7f-4bed-b10e-62d2-0394444feed1": {
+            "displayName": "Reaver Guardian",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/c9f0ea7f-4bed-b10e-62d2-0394444feed1/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/66d66f6b-464e-3142-f194-2aacc214281b.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Soulstealer/Levels/DMR_SoulStealer_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "8f8f82f4-4133-82c9-50b2-3c9c67e0f9fb": {
+            "displayName": "Sovereign Guardian",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/8f8f82f4-4133-82c9-50b2-3c9c67e0f9fb/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/a2f1a7c0-025f-475f-af19-3cbf50b4f8eb.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Sovereign/DMR_Sovereign_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "f202625e-4647-b575-07a9-3fbc39d72b10": {
+            "displayName": "Tethered Realms Guardian",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/f202625e-4647-b575-07a9-3fbc39d72b10/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/SovWorld/Levels/DMR_SovWorld_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "7bc358d8-42ad-611f-5594-37888c23abe3": {
+            "displayName": "Recon Guardian",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/7bc358d8-42ad-611f-5594-37888c23abe3/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/86cde36e-4ab1-7a46-9b90-23a2c3690d53.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/SpecOps/Levels/DMR_SpecOps_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "fa3d6a11-46c4-2caf-f7e4-10a5013c034b": {
+            "displayName": "Ego Guardian",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/fa3d6a11-46c4-2caf-f7e4-10a5013c034b/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/Unstoppable/Levels/DMR_Unstoppable_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "4a3b4aaf-4cdd-d5cf-b776-0593c3d2bf9a": {
+            "displayName": "Avalanche Marshal",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/4a3b4aaf-4cdd-d5cf-b776-0593c3d2bf9a/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Leversniper/Ice/Levels/LeverSniper_IceLv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "b2f78500-4322-b03d-2745-a3b2208d63fe": {
+            "displayName": "Magepunk Marshal",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/b2f78500-4322-b03d-2745-a3b2208d63fe/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/fc25c878-4209-8e8c-ea1a-548b15af4016.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Leversniper/Magepunk/LeverSniper_Magepunk_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "50265ad5-4f14-2b32-924e-02bbed2bea6f": {
+            "displayName": "Galleria Marshal",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/50265ad5-4f14-2b32-924e-02bbed2bea6f/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Leversniper/Murals/Levels/LeverSniper_Murals_Lv1_PrimaryAsset",
+            "cost": 875
+        },
+        "c5dd6298-4928-5d64-5cd0-7fa41ea89d81": {
+            "displayName": "Sovereign Marshal",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/c5dd6298-4928-5d64-5cd0-7fa41ea89d81/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/45c21880-a5d1-4778-b2a2-85b0b24f6c6f.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Leversniper/Sovereign/LeverSniperRifle_Sovereign_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "4049dc82-495b-cecc-8e34-4dbf35753129": {
+            "displayName": "Wasteland Marshal",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/4049dc82-495b-cecc-8e34-4dbf35753129/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Leversniper/Wasteland/Levels/LeverSniper_Wasteland_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "4fcea818-4877-85f9-ba01-a0b02e1868f4": {
+            "displayName": "Winterwunderland Marshal",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/4fcea818-4877-85f9-ba01-a0b02e1868f4/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Leversniper/Winter/Levels/LeverSniper_Winter_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "291cb44a-410d-b035-4d0b-608a92c2cd91": {
+            "displayName": "VALORANT GO! Vol. 1 Spectre",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/291cb44a-410d-b035-4d0b-608a92c2cd91/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/MP5/Anime/Levels/MP5_Anime_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "b39aed48-4bb5-089b-3f60-17aa27e45733": {
+            "displayName": "Radiant Crisis 001 Spectre",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/b39aed48-4bb5-089b-3f60-17aa27e45733/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/ab20ac7f-4271-4638-d474-a1980fe31ec8.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/MP5/Comicbook/Levels/MP5_Comicbook_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "3b955119-421c-3319-50cc-1aaf06b42338": {
+            "displayName": "Singularity Spectre",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/3b955119-421c-3319-50cc-1aaf06b42338/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/5a0b6caa-4abe-0460-7342-e8aeaeb4f3eb.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/MP5/Edge/SubMachineGun_MP5_Edge_Lv1_PrimaryAsset",
+            "cost": 2175
+        },
+        "daa73753-4b56-9d21-d73e-f3b3f4c9b1a6": {
+            "displayName": "Forsaken Spectre",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/daa73753-4b56-9d21-d73e-f3b3f4c9b1a6/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/1e41eb2d-4b41-9e8c-5a35-319a2b285dc7.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/MP5/Fallen/Levels/MP5_Fallen_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "dd595229-4aac-73f1-5fad-86891b7d7ecb": {
+            "displayName": "Infantry Spectre",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/dd595229-4aac-73f1-5fad-86891b7d7ecb/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/MP5/Historical/Levels/MP5_Historical_Lv1_PrimaryAsset",
+            "cost": 875
+        },
+        "755d86a0-4b1c-5c8b-9238-e5be850ba001": {
+            "displayName": "Horizon Spectre",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/755d86a0-4b1c-5c8b-9238-e5be850ba001/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/MP5/Horizon/Levels/MP5_Horizon_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "d1d528ae-4dcc-e693-68e2-e8a475df83a4": {
+            "displayName": "Prime Spectre",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/d1d528ae-4dcc-e693-68e2-e8a475df83a4/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/0e21885e-9535-4445-8e0a-a221fffd0b3a.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/MP5/HypeBeast/SubMachineGun_MP5_HypeBeast_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "5a0cd3b5-4249-bf6f-d009-17a81532660e": {
+            "displayName": "Avalanche Spectre",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/5a0cd3b5-4249-bf6f-d009-17a81532660e/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/MP5/Ice/Levels/MP5_IceLv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "481a5abb-45d7-818d-798f-d18d988b6dc1": {
+            "displayName": "Prism Spectre",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/481a5abb-45d7-818d-798f-d18d988b6dc1/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/MP5/Iridescence/Levels/MP5_IridescenceLv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "87220abc-49a9-7472-ae09-29a6d711bbc3": {
+            "displayName": "Ruination Spectre",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/87220abc-49a9-7472-ae09-29a6d711bbc3/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/27a57df1-400a-c940-7601-48babd07f365.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/MP5/King/Levels/MP5_King_Lv1_PrimaryAsset",
+            "cost": 2175
+        },
+        "7d43477d-465a-67fc-561e-f2a2ebea697d": {
+            "displayName": "Luxe Spectre",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/7d43477d-465a-67fc-561e-f2a2ebea697d/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/MP5/Luxury/MP5_Luxury_Lv1_PrimaryAsset",
+            "cost": 875
+        },
+        "7e45e9cd-4072-cc32-0898-d09c167cc0f9": {
+            "displayName": "Magepunk Spectre",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/7e45e9cd-4072-cc32-0898-d09c167cc0f9/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/0aeded14-4e4a-0d0d-cf7f-cbb8ec962d0f.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/MP5/Magepunk/MP5_Magepunk_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "f2ef87c7-4ff5-54f8-e038-cea4e54eefdd": {
+            "displayName": "Spline Spectre",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/f2ef87c7-4ff5-54f8-e038-cea4e54eefdd/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/MP5/MagicSpline/Levels/MP5_MagicSpline_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "1fdbe6f8-42ca-deb2-33da-caa2c4200544": {
+            "displayName": "Minima Spectre",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/1fdbe6f8-42ca-deb2-33da-caa2c4200544/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/MP5/Minima/Levels/MP5_Minima_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "5eb7515f-40a1-2f15-de03-c9a024664737": {
+            "displayName": "Protocol 781-A Spectre",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/5eb7515f-40a1-2f15-de03-c9a024664737/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/50d436c5-40f4-204b-4516-dd978a2a05cc.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/MP5/Protocol/Levels/MP5_Protocol_Lv1_PrimaryAsset",
+            "cost": 2475
+        },
+        "8a1b2c5b-4692-78ae-9d5c-cdac6a61e4f4": {
+            "displayName": "Gravitational Uranium Neuroblaster Spectre",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/8a1b2c5b-4692-78ae-9d5c-cdac6a61e4f4/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/27bbd462-4995-e379-5582-bcb241ab117b.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/MP5/Raygun/Levels/MP5_Raygun_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "613dd54a-4068-0fab-7670-bf8268a9b76b": {
+            "displayName": "Recon Spectre",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/613dd54a-4068-0fab-7670-bf8268a9b76b/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/2c0bd10f-4283-0943-523a-44bbc98b5247.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/MP5/SpecOps/Levels/MP5_SpecOps_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "e041ba88-452e-d907-1a83-f6b7631cd053": {
+            "displayName": "Tigris Spectre",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/e041ba88-452e-d907-1a83-f6b7631cd053/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/MP5/Tiger/Levels/MP5_Tiger_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "fbe265cf-4e3d-9891-791e-5089f1f7f102": {
+            "displayName": "Convex Spectre",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/fbe265cf-4e3d-9891-791e-5089f1f7f102/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/MP5/Triangles/Levels/MP5_Triangles_Lv1_PrimaryAsset",
+            "cost": 875
+        },
+        "fdcb9cc0-4877-6f89-02ad-98ab330f3043": {
+            "displayName": "BlastX Spectre",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/fdcb9cc0-4877-6f89-02ad-98ab330f3043/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/81cf0902-4f0e-c329-eeca-a4873f732a77.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/MP5/URF/MP5_URF_Lv1_PrimaryAsset",
+            "cost": 2175
+        },
+        "a83ac09d-4c19-fda6-8e4d-c1b77dc2b479": {
+            "displayName": "Wasteland Spectre",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/a83ac09d-4c19-fda6-8e4d-c1b77dc2b479/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/MP5/Wasteland/Levels/MP5_Wasteland_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "4dbeebb2-4b39-8aec-b639-00bc4948d0f3": {
+            "displayName": "RGX 11z Pro Stinger",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/4dbeebb2-4b39-8aec-b639-00bc4948d0f3/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/028d98a7-4a8b-8851-572e-448ef90c81d6.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/Vector/Afterglow/Levels/Vector_Afterglow_Lv1_PrimaryAsset",
+            "cost": 2175
+        },
+        "df37b069-48b2-0a7c-78ea-5b8eedc684f7": {
+            "displayName": "Aristocrat Stinger",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/df37b069-48b2-0a7c-78ea-5b8eedc684f7/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/Vector/ArtDeco/Levels/Vector_ArtDecoLv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "b5f7b00a-4c4b-a3d5-d2cc-fbb62c482ef6": {
+            "displayName": "Prism II Stinger",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/b5f7b00a-4c4b-a3d5-d2cc-fbb62c482ef6/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/Vector/Iridescence3/Levels/Vector_Iridescence3_Lv1_PrimaryAsset",
+            "cost": 875
+        },
+        "d547c575-4572-9d77-42e5-bea022e5f07b": {
+            "displayName": "Silvanus Stinger",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/d547c575-4572-9d77-42e5-bea022e5f07b/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/Vector/MysticForest/Levels/Vector_MysticForest_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "fed9c3f3-40a5-da67-4ac9-4683cc5a0eba": {
+            "displayName": "Sensation Stinger",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/fed9c3f3-40a5-da67-4ac9-4683cc5a0eba/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/Vector/Rainbow/Levels/Vector_Rainbow_Lv1_PrimaryAsset",
+            "cost": 875
+        },
+        "e2c84381-4fa6-29b4-37b9-21bba8ae24bf": {
+            "displayName": "Sakura Stinger",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/e2c84381-4fa6-29b4-37b9-21bba8ae24bf/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/Vector/Sakura/Levels/Vector_Sakura_Lv1_PrimaryAsset",
+            "cost": 1275
+        },
+        "9bc535dd-4d91-3421-2cd0-7a8fdad3478b": {
+            "displayName": "Sovereign Stinger",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/9bc535dd-4d91-3421-2cd0-7a8fdad3478b/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/69172783-e002-49d3-8481-14652cbc3d3a.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/Vector/Sovereign/Vector_Sovereign_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "ca2f7bc0-4270-7f76-4623-8596a5584d06": {
+            "displayName": "Ego Stinger",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/ca2f7bc0-4270-7f76-4623-8596a5584d06/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/Vector/Unstoppable/Levels/Vector_Unstoppable_Lv1_PrimaryAsset",
+            "cost": 1775
+        },
+        "a1762ed3-45bf-2dd5-776f-a18a33171e6f": {
+            "displayName": "RGX 11z Pro Blade",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/a1762ed3-45bf-2dd5-776f-a18a33171e6f/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/ff91070b-4b02-e569-2fa3-41b3eb8cdfde.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Melee/Afterglow/Levels/Melee_Afterglow_Lv1_PrimaryAsset",
+            "cost": 4350
+        },
+        "6e37a33a-416e-fcc0-ceb8-7784e18fbfe9": {
+            "displayName": "VALORANT GO! Vol. 1 Knife",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/6e37a33a-416e-fcc0-ceb8-7784e18fbfe9/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/0ec7209f-491b-5ed1-7607-528e95079451.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Melee/Anime/Levels/Melee_Anime_Lv1_PrimaryAsset",
+            "cost": 3550
+        },
+        "ec70c8c8-48db-b2dc-ab7d-1d9410b0cfbf": {
+            "displayName": "Yoru's Stylish Butterfly Comb",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/ec70c8c8-48db-b2dc-ab7d-1d9410b0cfbf/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/9eb8aea6-47ac-f18b-063b-0080ae886329.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Melee/Anime2/Levels/Melee_Anime2_Lv1_PrimaryAsset",
+            "cost": 3550
+        },
+        "f58e7da3-4567-707f-cb1e-3a9add422481": {
+            "displayName": "Waveform",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/f58e7da3-4567-707f-cb1e-3a9add422481/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/b88115b3-44b1-57cc-114f-029769c9d0e6.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Melee/Atlas/Levels/Melee_Atlas_Lv1_PrimaryAsset",
+            "cost": 5350
+        },
+        "5f059d7e-413c-445c-e36f-9a9791fba5b0": {
+            "displayName": "Origin Crescent Blade",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/5f059d7e-413c-445c-e36f-9a9791fba5b0/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/9584f283-4072-c4ad-fee2-39bcb1fb1234.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Melee/Circle/Levels/Melee_Circle_Lv1_PrimaryAsset",
+            "cost": 3550
+        },
+        "30de237a-4fb3-90f5-3630-65be64d01423": {
+            "displayName": "Radiant Crisis 001 Baseball Bat",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/30de237a-4fb3-90f5-3630-65be64d01423/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/fe1e8b71-4fef-da39-aff8-e187654f4a6d.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Melee/Comicbook/Levels/Melee_Comicbook_Lv1_PrimaryAsset",
+            "cost": 3550
+        },
+        "88d7c503-477f-c881-af2c-53bbab55807c": {
+            "displayName": "Nebula Knife",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/88d7c503-477f-c881-af2c-53bbab55807c/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Melee/Cosmos/Levels/Melee_Cosmos_Lv1_PrimaryAsset",
+            "cost": 3550
+        },
+        "4875e120-4d7d-aa2a-71c5-c0851c4af00d": {
+            "displayName": "Hack",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/4875e120-4d7d-aa2a-71c5-c0851c4af00d/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/ce351725-4822-6403-fd97-54af6aa7728d.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Melee/Cybercity/Levels/Melee_Cybercity_Lv1_PrimaryAsset",
+            "cost": 3550
+        },
+        "48ce4a70-4207-623b-4739-bfb937812432": {
+            "displayName": "Glitchpop Dagger",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/48ce4a70-4207-623b-4739-bfb937812432/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/87e9e556-41a8-401d-a87f-69b65162d0ba.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Melee/Cyberpunk/Melee__Cyberpunk_Lv1_PrimaryAsset",
+            "cost": 4350
+        },
+        "f27623a6-40de-20b9-17b5-c5bed27453a7": {
+            "displayName": "Glitchpop Axe",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/f27623a6-40de-20b9-17b5-c5bed27453a7/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/c1091b0b-48e6-c851-8b5b-728f535082d5.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Melee/Cyberpunk2/Levels/Melee_Cyberpunk2_Lv1_PrimaryAsset",
+            "cost": 4350
+        },
+        "f3594bcc-43a9-4a74-8c40-98a4e4a4569a": {
+            "displayName": "Elderflame Dagger",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/f3594bcc-43a9-4a74-8c40-98a4e4a4569a/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/282c7f4a-bc4f-424a-a40d-b87ac5210ba9.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Melee/Dragon/Melee__Dragon_Lv1_PrimaryAsset",
+            "cost": 4950
+        },
+        "ea441610-42da-e46f-8d7b-1b9759c105cd": {
+            "displayName": "Singularity Knife",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/ea441610-42da-e46f-8d7b-1b9759c105cd/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/758a25ed-43d8-ee80-bd15-1bba89d9d6c0.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Melee/Edge/Melee_Base_Edge_Lv1_PrimaryAsset",
+            "cost": 4350
+        },
+        "5fecfd43-4bec-4e6a-842c-84860853df82": {
+            "displayName": "Forsaken Ritual Blade",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/5fecfd43-4bec-4e6a-842c-84860853df82/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/e4e73515-4cfb-ef0e-5cdb-4ba9fb7e0803.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Melee/Fallen/Levels/Melee_Fallen_Lv1_PrimaryAsset",
+            "cost": 3550
+        },
+        "249b0e46-4a11-f045-51bb-649151cd802a": {
+            "displayName": "Prime Axe",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/249b0e46-4a11-f045-51bb-649151cd802a/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/aefe0720-5997-4a4e-8b6c-56a0d00573eb.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Melee/HypeBeast/Levels/Melee_Base_HypeBeast_Lv1_PrimaryAsset",
+            "cost": 3550
+        },
+        "167481de-4732-b44a-06ad-938625015abe": {
+            "displayName": "Prime//2.0 Karambit",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/167481de-4732-b44a-06ad-938625015abe/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/4835719d-4d25-53f1-8332-b39e3f8f6c4f.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Melee/HypeBeast2/Levels/Melee_HypeBeast2_Lv1_PrimaryAsset",
+            "cost": 3550
+        },
+        "7cf3af0b-4556-a0db-2e04-eea4368b354b": {
+            "displayName": "Prism Knife",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/7cf3af0b-4556-a0db-2e04-eea4368b354b/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Melee/Iridescence/Levels/Melee_IridescenceLv1_PrimaryAsset",
+            "cost": 2550
+        },
+        "e94012b1-4a22-63d2-117e-90a2c1375ded": {
+            "displayName": "Broken Blade of the Ruined King",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/e94012b1-4a22-63d2-117e-90a2c1375ded/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/624d6227-4677-0d94-c1be-77ac8d3169ed.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Melee/King/Levels/Melee_King_Lv1_PrimaryAsset",
+            "cost": 4350
+        },
+        "b6768f01-4d72-f0f1-65b5-71b751536490": {
+            "displayName": "Smite Knife",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/b6768f01-4d72-f0f1-65b5-71b751536490/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Melee/Lightning/Levels/Melee_Lightning_Lv1_PrimaryAsset",
+            "cost": 1750
+        },
+        "dc5e3cfc-466a-4819-e93b-2ba5f1847915": {
+            "displayName": "Catrina",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/dc5e3cfc-466a-4819-e93b-2ba5f1847915/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/20047269-4a1a-7c0c-bca2-f5a1010fdfa2.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Melee/LosMuertos/Levels/Melee_LosMuertos_Lv1_PrimaryAsset",
+            "cost": 2550
+        },
+        "7302d465-46cd-2a43-655f-93aee59030db": {
+            "displayName": "Celestial Fan",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/7302d465-46cd-2a43-655f-93aee59030db/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/5cee5980-4015-b99a-db3b-b68b7943265f.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Melee/Lunar/Levels/Melee_Lunar_Lv1_PrimaryAsset",
+            "cost": 3550
+        },
+        "e57317ac-4a93-50a9-30e9-93a098513fa9": {
+            "displayName": "Luxe Knife",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/e57317ac-4a93-50a9-30e9-93a098513fa9/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Melee/Luxury/Melee_Base_Luxury_Lv1_PrimaryAsset",
+            "cost": 1750
+        },
+        "c1326ee3-47af-d823-6686-618e1bcdf0c6": {
+            "displayName": "Magepunk Electroblade",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/c1326ee3-47af-d823-6686-618e1bcdf0c6/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/f7d3d3fd-4cd6-ba57-27e2-c6b5164e41e7.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Melee/Magepunk/Melee_Magepunk_Lv1_PrimaryAsset",
+            "cost": 3550
+        },
+        "c5ec6a47-40c2-66ed-d546-5bad1eef6fd5": {
+            "displayName": "Magepunk Shock Gauntlet",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/c5ec6a47-40c2-66ed-d546-5bad1eef6fd5/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/3d0c44b3-4679-ae4e-0de5-a8ae123f790f.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Melee/Magepunk2/Levels/Melee_Magepunk2_Lv1_PrimaryAsset",
+            "cost": 3550
+        },
+        "d6e93360-46a2-0103-afa0-8b91e78b6fe8": {
+            "displayName": "Spline Dagger",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/d6e93360-46a2-0103-afa0-8b91e78b6fe8/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Melee/MagicSpline/Levels/Melee_MagicSpline_Lv1_PrimaryAsset",
+            "cost": 3550
+        },
+        "21ceb4b1-480f-dddb-1422-8aad73519181": {
+            "displayName": "Ion Energy Sword",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/21ceb4b1-480f-dddb-1422-8aad73519181/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/c5eb2a6a-4afd-10c0-2ed0-3dbf6e0f4c52.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Melee/Oblivion/Levels/Melee_Oblivion_Lv1_PrimaryAsset",
+            "cost": 3550
+        },
+        "e34039b6-441d-3e17-2773-bdaf5c3d2faa": {
+            "displayName": "Oni Claw",
+            "levelItem": "EEquippableSkinLevelItem::VFX",
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/e34039b6-441d-3e17-2773-bdaf5c3d2faa/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Melee/Oni/Levels/Melee__Oni_Lv1_PrimaryAsset",
+            "cost": 3550
+        },
+        "47897cd1-49e2-da3f-4a8f-b6a1e84b0dd0": {
+            "displayName": "Personal Administrative Melee Unit",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/47897cd1-49e2-da3f-4a8f-b6a1e84b0dd0/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/58dab324-46e7-0170-6a36-a69220aba7b1.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Melee/Protocol/Levels/Melee_Protocol_Lv1_PrimaryAsset",
+            "cost": 4950
+        },
+        "3710f62c-4e0c-65fd-848d-8da25d2fb833": {
+            "displayName": "Gravitational Uranium Neuroblaster Baton",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/3710f62c-4e0c-65fd-848d-8da25d2fb833/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/24babfbe-42f6-aa22-a13e-6291dce64634.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Melee/Raygun/Levels/Melee_Raygun_Lv1_PrimaryAsset",
+            "cost": 3550
+        },
+        "155ba654-4afa-1029-9e71-e0b6962d5410": {
+            "displayName": "Snowfall Wand",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/155ba654-4afa-1029-9e71-e0b6962d5410/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Melee/Snowglobe/Levels/Melee_Snowglobe_Lv1_PrimaryAsset",
+            "cost": 2550
+        },
+        "315e8e49-4dc4-9769-2382-3ba5f7af87da": {
+            "displayName": "Relic of the Sentinel",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/315e8e49-4dc4-9769-2382-3ba5f7af87da/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/9b5276da-46a1-3539-3ae4-669713337302.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Melee/SOL/Levels/Melee_SOL_Lv1_PrimaryAsset",
+            "cost": 4350
+        },
+        "d7a02a43-47a5-556c-a69f-ec9cf6ede66d": {
+            "displayName": "Reaver Knife",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/d7a02a43-47a5-556c-a69f-ec9cf6ede66d/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/f0f9b1cf-4686-0c4d-f45b-14a428832ae4.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Melee/Soulstealer/Levels/Melee_Soulstealer_Lv1_PrimaryAsset",
+            "cost": 3550
+        },
+        "90fe45d6-41ea-1c49-8fb9-46b0e98c0077": {
+            "displayName": "Sovereign Sword",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/90fe45d6-41ea-1c49-8fb9-46b0e98c0077/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/4a6a5fbb-6f44-4758-bb9a-51e0b0437ad0.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Melee/Sovereign/Melee_Base_Sovereign_Lv1_PrimaryAsset",
+            "cost": 3550
+        },
+        "12dce8f5-42fe-87c6-ef37-8aa4e55f1f64": {
+            "displayName": "Prosperity",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/12dce8f5-42fe-87c6-ef37-8aa4e55f1f64/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/e0fbd460-4559-dcc8-9bdc-52b0b024e6d5.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Melee/SovWorld/Levels/Melee_SovWorld_Lv1_PrimaryAsset",
+            "cost": 3550
+        },
+        "e85cf8b6-467b-bc6c-9013-959383f71b2e": {
+            "displayName": "Recon Balisong",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/e85cf8b6-467b-bc6c-9013-959383f71b2e/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/3d00a7a2-4957-301b-4f4b-b9b914c287d5.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Melee/SpecOps/Levels/Melee_SpecOps_Lv1_PrimaryAsset",
+            "cost": 3550
+        },
+        "d3a228df-4eb5-09c4-0e32-93b50c9ec842": {
+            "displayName": "Hu Else",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/d3a228df-4eb5-09c4-0e32-93b50c9ec842/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Melee/Tiger/Levels/Melee_Tiger_Lv1_PrimaryAsset",
+            "cost": 2550
+        },
+        "5bf17117-4ead-a0a8-2961-288d38985e93": {
+            "displayName": "Ego Knife",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/5bf17117-4ead-a0a8-2961-288d38985e93/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Melee/Unstoppable/Levels/Melee_Unstoppable_Lv1_PrimaryAsset",
+            "cost": 3550
+        },
+        "708abbc6-4579-4452-4293-07ba45e78979": {
+            "displayName": "BlastX Polymer KnifeTech Coated Knife",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/708abbc6-4579-4452-4293-07ba45e78979/displayicon.png",
+            "streamedVideo": "https://media.valorant-api.com/streamedvideos/release-04.03/ec1348c5-44f1-e356-84ce-34a68114f780.mp4",
+            "assetPath": "ShooterGame/Content/Equippables/Melee/URF/UrfKnife/Melee_Base_UrfKnife_Lv1_PrimaryAsset",
+            "cost": 4350
+        },
+        "b577585f-4171-19a1-2899-848460de8089": {
+            "displayName": "Winterwunderland Candy Cane",
+            "levelItem": null,
+            "displayIcon": "https://media.valorant-api.com/weaponskinlevels/b577585f-4171-19a1-2899-848460de8089/displayicon.png",
+            "streamedVideo": null,
+            "assetPath": "ShooterGame/Content/Equippables/Melee/Winter/Levels/Melee_Winter_Lv1_PrimaryAsset",
+            "cost": 2550
+        }
+    }
+}
