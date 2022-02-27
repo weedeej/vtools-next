@@ -106,13 +106,8 @@ async function remove (id, req, res, skinId)
     if (!waitList.includes(skinId)) {
         return res.status(404).json({ error: `Skin id: ${skinId} not found`, input: skinId });
     }
-    for (let i = 0; i < waitList.length; i++) {
-        if (waitList[i] == skinId) {
-            waitList.pop(i); 
-        }
-    }
 
-    document.waitList = waitList;
+    document.waitList = waitList.filter(skin_id => skin_id !== skinId);
     await instance.addDocument(id, document);
     return res.status(200).json({ data: waitList });
 }
