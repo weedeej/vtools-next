@@ -82,10 +82,10 @@ async function add (id, req, res, skinId)
         return res.status(404).json({ error: `Skin id: ${skinId} not found`, input: skinId });
     }
     if (waitList.includes(skinId)) {
-        return res.status(409).json({ error: `Skin id: ${skinId} already in waitlist`, input: skinId });    
+        return res.status(409).json({ error: `The skin: ${skinsList.data[skinId].displayName} is already in waitlist`, input: skinId });    
     }
     if (waitList.length >= 5) {
-        return res.status(409).json({ error: `Waitlist is full`, input: skinId });
+        return res.status(409).json({ error: `Waitlist is full please consider removing one to add this skin.`, input: skinId });
     }
 
     waitList.push(skinId);
@@ -99,7 +99,7 @@ async function remove (id, req, res, skinId)
     const instance = new Instance();
     const document = await instance.documentFromID(id);
     if (document === undefined) {
-        return res.status(404).json({ error: "Not Found", input: id });
+        return res.status(404).json({ error: "User is not listed.", input: id });
     }
     const waitList = document.waitList;
 
