@@ -77,9 +77,15 @@ async function add (id, req, res, skinId)
 
     const skinsListResp = await fetch("https://vtools-next.vercel.app/api/skinslist");
     let skinsList = await skinsListResp.json();
-
+    
     if (!(skinId in skinsList.data)) {
         return res.status(404).json({ error: `Skin id: ${skinId} not found`, input: skinId });
+    }
+    if (waitList.includes(skinId)) {
+        return res.status(409).json({ error: `Skin id: ${skinId} already in waitlist`, input: skinId });    
+    }
+    if (waitList.length >= 5) {
+        return res.status(409).json({ error: `Waitlist is full`, input: skinId });
     }
 
     waitList.push(skinId);
