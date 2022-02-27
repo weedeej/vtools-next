@@ -96,6 +96,9 @@ async function add (id, req, res, skinId)
 
 async function remove (id, req, res, skinId)
 {
+    const skinsListResp = await fetch("https://vtools-next.vercel.app/api/skinslist");
+    let skinsList = await skinsListResp.json();
+
     const instance = new Instance();
     const document = await instance.documentFromID(id);
     if (document === undefined) {
@@ -104,12 +107,12 @@ async function remove (id, req, res, skinId)
     const waitList = document.waitList;
 
     if (!waitList.includes(skinId)) {
-        return res.status(404).json({ error: `Skin id: ${skinId} not found`, input: skinId });
+        return res.status(409).json({ error: `The skin: ${skinsList.data[skinId].displayName} is not found`, input: skinId });    
     }
 
     document.waitList = waitList.filter(skin_id => skin_id !== skinId);
     await instance.addDocument(id, document);
-    return res.status(200).json({ data: waitList });
+    return res.status(200).json({ data: document.waitList });
 }
 
 export default async function store(req, res) {
