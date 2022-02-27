@@ -38,7 +38,6 @@ export default async function update(req, res) {
         offers.some(offer => {
             if (offer.OfferID == skinLevel.uuid && offer.IsDirectPurchase){
                 skinLevel["cost"] = offer.Cost["85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741"];
-                delete skinLevel["uuid"];
                 const uuid = offer.OfferID;
                 buyable.data[uuid] = skinLevel;
             }
