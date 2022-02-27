@@ -22,4 +22,9 @@ export class Instance
         setDoc(doc(this.instance, "vii-chan_users", docuName), data);
         return data;
     }
+
+    async getDocuments ()
+    {
+        return (await getDocsFromServer(this.collection)).docs.map(doc => doc.id);
+    }
 }
