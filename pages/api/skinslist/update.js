@@ -1,6 +1,8 @@
 import { Instance } from "../../../connection/conn_vii";
 import { initSession } from "../../../utils/authentication/verify_user";
 import { validateAuthorization } from "../../../utils/validator";
+import GitHub from 'github-api';
+
 const axios = require('axios').default;
 const fs = require('fs');
 
@@ -43,6 +45,18 @@ export default async function update(req, res) {
             }
         })
     }
-    fs.writeFileSync('./pages/api/skinslist/Purchaseables.json', JSON.stringify(buyable, null, 4));
-    return res.status(200).json(buyable);
+    const gh = new GitHub({
+        token: process.env.GITHUB_GIST_KEY,
+    });
+
+    const gistObject = gh.getGist(process.env.GITHUB_PURCHASEABLES_GIST);
+
+    await gistObject.update({
+        files: {
+            "Purchaseables.json": {
+                content: JSON.stringify(buyable, null, 4)
+            }
+        }
+    });
+    return res.status(200).json(JSON.stringify(buyable, null, 4));
 }
