@@ -1,37 +1,87 @@
-import { initializeApp } from "firebase/app";
-import { getFirestore, setDoc, doc, Firestore, getDoc, getDocsFromServer, collection, query as findFrom, where, getDocFromServer } from 'firebase/firestore';
-
+import { MongoClient, ServerApiVersion } from "mongodb";
 const firebaseConfig = JSON.parse(process.env.FIREBASE_CONFIG);
-
+const uri = process.env.CONNECTION_URI_VALCC;
 export class Instance
 {
     constructor()
     {
-        const app = initializeApp(firebaseConfig);
-        this.instance = getFirestore(app);
-        this.collection = collection(this.instance, "users-settings");
+        this.client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true, serverApi: ServerApiVersion.v1 });
+        const [db,coll] = process.env.CONNECTION_DB_COL_VALCC.split(':');
+        this.dbname = db;
+        this.col_name = coll;
     }
 
     async documentFromSharecode (shareCode)
-    {
-        const query = findFrom(this.collection, where("sharecode", "==", shareCode));
-        return (await getDocsFromServer(query)).docs.map(doc => doc.data());
+    {   
+        let docs = [];
+        let cursor;
+        try {
+            await this.client.connect();
+            const db = this.client.db(this.dbname);
+            const col = db.collection(this.col_name);
+            const query = { sharecode: shareCode };
+            cursor = col.find(query);
+        }finally
+        {
+            await this.client.close();
+        }
+        if ((await cursor.count()) === 0) return docs;
+        return await cursor.toArray();
     }
 
     async documentFromSubject (subject)
     {
-        return (await getDocFromServer(doc(this.instance, "users-settings", subject))).data();
+        let doc;
+        try {
+            await this.client.connect();
+            const db = this.client.db(this.dbname);
+            const col = db.collection(this.col_name);
+            const query = { subject };
+            doc = await col.findOne(query);
+        }finally
+        {
+            await this.client.close();
+        }
+        return doc ? doc : undefined;
     }
 
-    addDocument (docuName, data)
+    async addDocument (docuName, data)
     {
-        setDoc(doc(this.instance, "users-settings", docuName), data);
-        return data;
+        data["subject"] = docuName;
+        let res;
+        try {
+            await this.client.connect();
+            const db = this.client.db(this.dbname);
+            const col = db.collection(this.col_name);
+            const query = { subject: docuName };
+            const update = {
+                $set: {
+                    ...data
+                },
+              };
+            res = await col.updateOne(query, update, { upsert: true });
+        }finally
+        {
+            await this.client.close();
+        }
+        return res;
     }
 
     async documents()
     {
-        const query = findFrom(this.collection, where("shareable", "==", true));
-        return (await getDocsFromServer(query)).docs.map(doc => doc.data());
+        let docs = [];
+        let cursor;
+        try {
+            await this.client.connect();
+            const db = this.client.db(this.dbname);
+            const col = db.collection(this.col_name);
+            const query = { shareable: true };
+            cursor = col.find(query);
+        }finally
+        {
+            await this.client.close();
+        }
+        if ((await cursor.count()) === 0) return docs;
+        return await cursor.toArray();
     }
 }
