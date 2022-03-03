@@ -75,7 +75,7 @@ export default async function totalspent(req,res)
 
     const response = fetch_hist.data;
     const history = response.account.billing.paymentHistory;
-    if (history.length < 1) return res.status(201).json({error:"No payment history found"});
+    if (history.length < 1) return res.status(400).json({error:"No payment history found"});
     const currency = history[0].currency;
     let total = 0
     history.map(e => {
