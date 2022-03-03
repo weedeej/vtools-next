@@ -23,10 +23,11 @@ export class Instance
             cursor = col.find(query);
         }finally
         {
+            if ((await cursor.count()) === 0) return docs;
+            docs = await cursor.toArray();
             await this.client.close();
+            return docs;
         }
-        if ((await cursor.count()) === 0) return docs;
-        return await cursor.toArray();
     }
 
     async documentFromSubject (subject)
@@ -79,9 +80,11 @@ export class Instance
             cursor = col.find(query);
         }finally
         {
+            if ((await cursor.count()) === 0) return docs;
+            docs = await cursor.toArray();
             await this.client.close();
+            return docs;
         }
-        if ((await cursor.count()) === 0) return docs;
-        return await cursor.toArray();
+        
     }
 }
