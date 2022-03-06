@@ -10,5 +10,9 @@ export default async function handler(req, res) {
     if (resp === undefined || resp.length < 1) {
         return res.status(204).end();
     }
-    res.status(200).json(JSON.stringify(resp, null, 4));
+    let offset = 0;
+    if (req.query.offset != undefined) offset = parseInt(req.query.offset);
+    if (offset === NaN) offset = 0;
+
+    res.status(200).json(JSON.stringify(resp.slice(offset,offset+20), null, 4));
 }
