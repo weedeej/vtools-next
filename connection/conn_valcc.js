@@ -15,15 +15,16 @@ export class Instance
     {   
         let docs = [];
         let cursor;
+        let col;
+        const query = { sharecode: shareCode };
         try {
             await this.client.connect();
             const db = this.client.db(this.dbname);
-            const col = db.collection(this.col_name);
-            const query = { sharecode: shareCode };
+            col = db.collection(this.col_name);
             cursor = col.find(query);
         }finally
         {
-            if ((await cursor.count()) === 0) return docs;
+            if ((await col.countDocuments(query, {skip: offset, limit:20})) === 0) return docs;
             docs = await cursor.toArray();
             await this.client.close();
             return docs;
@@ -68,19 +69,20 @@ export class Instance
         return res;
     }
 
-    async documents()
+    async documents(offset)
     {
         let docs = [];
         let cursor;
+        let col;
+        const query = { shareable: true };
         try {
             await this.client.connect();
             const db = this.client.db(this.dbname);
-            const col = db.collection(this.col_name);
-            const query = { shareable: true };
-            cursor = col.find(query);
+            col = db.collection(this.col_name);
+            cursor = col.find(query).skip(offset).limit(20);
         }finally
         {
-            if ((await cursor.count()) === 0) return docs;
+            if ((await col.countDocuments(query, {skip: offset, limit:20})) === 0) return docs;
             docs = await cursor.toArray();
             await this.client.close();
             return docs;
