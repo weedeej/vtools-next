@@ -39,9 +39,18 @@ async function get_sso(cookies, res) {
             return err.response;
         }
     });
-    const sso = second_redirect.headers['set-cookie'].filter(e => e.includes('sso_session'));
+    let sso = [];
+    try
+    {
+        sso = second_redirect.headers['set-cookie'].filter(e => e.includes('sso_session'));
+    } catch (ex)
+    {
+        if (ex instanceof TypeError) return res.status(401).json({error:"Your session has expired because you changed password/riot\'s update revoked it."});
+        else throw ex;
+    }
+    
     if (sso.length < 1)
-        return res.end(401).json({error:"Your Riot Games email is not Verified. Please go to https://account.riotgames.com and verify your email."});
+        return res.status(401).json({error:"Your Riot Games email is not Verified. Please go to https://account.riotgames.com and verify your email."});
     
     return sso;
 }
