@@ -1,5 +1,5 @@
 import { Instance } from "../../../../connection/conn_valcc";
-import validate from "../../../../utils/validator";
+import {validate} from "../../../../utils/validator";
 import fetchName from "../../../../utils/getName";
 
 export default async function queryHandler(req, res) {

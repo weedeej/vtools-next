@@ -117,9 +117,6 @@ async function remove (id, req, res, skinId)
 
 export default async function store(req, res) {
     const { id, action, key, updater_id } = req.query;
-    if (key == undefined || updater_id == undefined || key != process.env.UPDATER_KEY || !process.env.AUTHORIZED_UPDATER.split("|").includes(updater_id)) {
-        return res.status(401).json({ error: "Unauthorized" });
-    }
 
     switch (action[0])
     {
